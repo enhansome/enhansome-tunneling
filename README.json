@@ -1,8 +1,1648 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "frp",
+          "description": "Comprehensive open alternative to ngrok. Supports UDP, and has a P2P mode. Supports multiplexing over TCP (single connection or pool), QUIC, and KCP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48378947,
+            "language": "Go",
+            "last_commit": "2026-08-17T16:24:14Z",
+            "owner": "fatedier",
+            "repo": "frp",
+            "stars": 108876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngrok 1.0",
+          "description": "Original version of ngrok. No longer developed in favor of the commercial 2.0 version.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 8900723,
+            "language": "Go",
+            "last_commit": "2024-04-26T18:11:18Z",
+            "owner": "inconshreveable",
+            "repo": "ngrok",
+            "stars": 24428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "localtunnel/localtunnel",
+          "description": "Written in node. Popular suggestion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4696595,
+            "language": "JavaScript",
+            "last_commit": "2025-08-29T16:17:30Z",
+            "owner": "localtunnel",
+            "repo": "localtunnel",
+            "stars": 22444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pangolin",
+          "description": "Fully self-hostable tunneled reverse proxy management server with identity and access control, automated SSL certificates, and dashboard UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 863835427,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T01:33:21Z",
+            "owner": "fosrl",
+            "repo": "pangolin",
+            "stars": 22380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chisel",
+          "description": "SSH under the hood, but still uses a custom client binary. Supports auto certs from LetsEncrypt. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31311037,
+            "language": "Go",
+            "last_commit": "2026-08-09T00:06:44Z",
+            "owner": "jpillora",
+            "repo": "chisel",
+            "stars": 16416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rathole",
+          "description": "Similar to frp, including the config format, but with improved performance. Low resource consumption. Hot reload. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438123986,
+            "language": "Rust",
+            "last_commit": "2026-04-16T12:38:36Z",
+            "owner": "rathole-org",
+            "repo": "rathole",
+            "stars": 14034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sshuttle",
+          "description": "Open source project originally from one of the founders of Tailscale. Server doesn't require root; client does. Explicitly designed to avoid TCP-over-TCP issues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24043280,
+            "language": "Python",
+            "last_commit": "2026-08-17T21:30:07Z",
+            "owner": "sshuttle",
+            "repo": "sshuttle",
+            "stars": 13520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bore",
+          "description": "Minimal tunneling solution. MIT Licensed. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 477528511,
+            "language": "Rust",
+            "last_commit": "2026-02-04T18:00:26Z",
+            "owner": "ekzhang",
+            "repo": "bore",
+            "stars": 11405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gost",
+          "description": "Looks like a comprehensive option. TCP and UDP tunneling. TAP/TUN devices. Load balancing. Web API. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240039769,
+            "language": "Go",
+            "last_commit": "2026-08-18T15:45:48Z",
+            "owner": "go-gost",
+            "repo": "gost",
+            "stars": 7312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunnelto",
+          "description": "Open source (MIT). Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249120770,
+            "language": "Rust",
+            "last_commit": "2022-09-24T21:28:44Z",
+            "owner": "agrinman",
+            "repo": "tunnelto",
+            "stars": 6988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wstunnel",
+          "description": "Proxies over WebSockets. Focus on proxying from behind networks that block certain protocols. Written in Rust with executables provided.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58835703,
+            "language": "Rust",
+            "last_commit": "2026-08-18T20:03:26Z",
+            "owner": "erebe",
+            "repo": "wstunnel",
+            "stars": 6972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sish",
+          "description": "Open source ngrok/serveo alternative. SSH-based but uses a custom server written in Go. Supports WebSocket tunneling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170887175,
+            "language": "Go",
+            "last_commit": "2026-06-25T01:20:35Z",
+            "owner": "antoniomika",
+            "repo": "sish",
+            "stars": 4696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zrok",
+          "description": "Aims for effortless sharing both publicly and privately. Supports multiple types of resources, including HTTP endpoints and files. Built on OpenZiti (see overlay section below). Apache 2 License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 515311500,
+            "language": "Go",
+            "last_commit": "2026-06-22T17:38:16Z",
+            "owner": "openziti",
+            "repo": "zrok",
+            "stars": 4623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "expose",
+          "description": "ngrok alternative written in PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 255703597,
+            "language": "PHP",
+            "last_commit": "2026-07-09T14:14:25Z",
+            "owner": "exposedev",
+            "repo": "expose",
+            "stars": 4567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pgrok/pgrok",
+          "description": "A multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 611249232,
+            "language": "Go",
+            "last_commit": "2026-06-02T03:38:34Z",
+            "owner": "pgrok",
+            "repo": "pgrok",
+            "stars": 3548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-http-tunnel",
+          "description": "Uses a single HTTP/2 connection for muxing. Need to manually generate certs for server and clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 70700205,
+            "language": "Go",
+            "last_commit": "2026-07-02T16:09:14Z",
+            "owner": "mmatczuk",
+            "repo": "go-http-tunnel",
+            "stars": 3330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "progrium/localtunnel",
+          "description": "As far as I know this is the first ever tool of this kind, predating ngrok and the other localtunnel. No longer maintained, but here for posterity. MIT License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 484873,
+            "language": "Go",
+            "last_commit": "2022-05-17T07:58:46Z",
+            "owner": "progrium",
+            "repo": "localtunnel",
+            "stars": 3231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "portr",
+          "description": "Has a JavaScript/Python admin page and request inspection/replay features. AGPL-3.0 License. Tunneling implemented in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721585564,
+            "language": "Go",
+            "last_commit": "2026-08-16T08:08:19Z",
+            "owner": "amalshaji",
+            "repo": "portr",
+            "stars": 3176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piko",
+          "description": "Piko is an open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes). MIT License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 774198099,
+            "language": "Go",
+            "last_commit": "2026-08-10T04:07:11Z",
+            "owner": "andydunstall",
+            "repo": "piko",
+            "stars": 2184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gsocket/Global Socket",
+          "description": "The Global Socket Toolkit allows two users behind NAT/Firewall to establish a TCP connection with each other. Securely. Written in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 296670766,
+            "language": "C",
+            "last_commit": "2026-08-19T12:29:36Z",
+            "owner": "hackerschoice",
+            "repo": "gsocket",
+            "stars": 1913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tunnelmole",
+          "description": "Open source and optionally self hostable. The client and server are both written in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 598995344,
+            "language": "TypeScript",
+            "last_commit": "2026-04-13T08:54:06Z",
+            "owner": "robbie-cahill",
+            "repo": "tunnelmole-client",
+            "stars": 1884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selfhosted Gateway",
+          "description": "Self-hosted Docker-native alternative to Cloudflare Tunnel/ngrok. Reverse Proxy-over-VPN (RPoVPN) using WireGuard, Caddy and NGINX to expose local docker-compose services to the Internet with automatic HTTPS. AGPL-3.0 License.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 535326365,
+            "language": "Shell",
+            "last_commit": "2025-03-28T15:24:51Z",
+            "owner": "hintjen",
+            "repo": "selfhosted-gateway",
+            "stars": 1732
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiredoor",
+          "description": "Self-hosted ingress-as-a-service (WireGuard reverse VPN + NGINX) to expose private HTTP/TCP/UDP services with OAuth2 auth, automatic TLS, CLI & dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 957125950,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T17:48:40Z",
+            "owner": "wiredoor",
+            "repo": "wiredoor",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SirTunnel",
+          "description": "Minimal, self-hosted, 0-config alternative to ngrok. Similar to sish but leverages Caddy+OpenSSH rather than custom server code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 297804419,
+            "language": "Python",
+            "last_commit": "2024-03-24T20:15:50Z",
+            "owner": "anderspitman",
+            "repo": "SirTunnel",
+            "stars": 1568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jprq",
+          "description": "Proxies over WebSockets. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256722315,
+            "language": "Go",
+            "last_commit": "2026-06-20T12:10:26Z",
+            "owner": "azimjohn",
+            "repo": "jprq",
+            "stars": 1538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boringproxy",
+          "description": "Designed to be very easy to use. No config files. Clients can be remote-controlled through a simple WebUI and/or REST API on the server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 298906197,
+            "language": "Go",
+            "last_commit": "2024-07-06T10:13:37Z",
+            "owner": "boringproxy",
+            "repo": "boringproxy",
+            "stars": 1381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiretap",
+          "description": "Transparent tunneling over WireGuard (UDP) using userspace network stack. Root not required on server. Supports multiple clients and servers. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 567938688,
+            "language": "Go",
+            "last_commit": "2026-07-30T19:07:41Z",
+            "owner": "sandialabs",
+            "repo": "wiretap",
+            "stars": 1105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NPS Enhanced",
+          "description": "Self-hosted NAT traversal and reverse proxy with a Web UI, HTTP/HTTPS and TCP/UDP forwarding, and automatic certificate support. GPL-3.0 Licensed. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 877472223,
+            "language": "Go",
+            "last_commit": "2026-06-10T19:13:48Z",
+            "owner": "djylb",
+            "repo": "nps",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reverst",
+          "description": "Self-hosted HTTP reverse tunnels over HTTP/3 and QUIC, with load-balanced tunnel groups and host-based routing. Apache-2.0 License. Requires manual TLS/DNS; no formal releases; latest tag v0.2.0 (2024-05-27).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 781488171,
+            "language": "Go",
+            "last_commit": "2025-12-11T16:51:32Z",
+            "owner": "flipt-io",
+            "repo": "reverst",
+            "stars": 1004
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PageKite",
+          "description": "Comprehensive open source solution with hosted options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1016685,
+            "language": "Python",
+            "last_commit": "2026-01-13T14:17:27Z",
+            "owner": "pagekite",
+            "repo": "PyPagekite",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rustunnel",
+          "description": "Replicates the core functionality of ngrok. Exposes local services behind NAT/firewalls to the public internet through a relay server (self-hosted or managed). AGPL-3.0 License. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178265503,
+            "language": "Rust",
+            "last_commit": "2026-07-31T16:21:20Z",
+            "owner": "joaoh82",
+            "repo": "rustunnel",
+            "stars": 649
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onionpipe",
+          "description": "Onion addresses for anything. forwards ports on the local host to remote Onion addresses as Tor hidden services and vice-versa. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 451027194,
+            "language": "Go",
+            "last_commit": "2026-08-16T16:56:21Z",
+            "owner": "cmars",
+            "repo": "onionpipe",
+            "stars": 614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunnl.gg",
+          "description": "SSH-based hosted tunnel using the standard OpenSSH client with no account: gives a public HTTPS URL. Complete MIT-licensed Go relay, self-hostable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1109734874,
+            "language": "Go",
+            "last_commit": "2026-07-10T17:19:42Z",
+            "owner": "klipitkas",
+            "repo": "tunnl.gg",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Port Buddy",
+          "description": "Port Buddy is a tool that allows you to share a port opened on your local host or private network to the public network. HTTP/TCP/UDP tunnels. Apache 2.0 License. Written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1091696645,
+            "language": "Java",
+            "last_commit": "2026-08-12T11:25:02Z",
+            "owner": "amak-tech",
+            "repo": "port-buddy",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipenet",
+          "description": "A modern alternative to localtunnel. Bundles client & server with both SDK and CLI. Supports single-port mode for cloud deployments. MIT Licensed. Written in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1137302003,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T21:32:40Z",
+            "owner": "punkpeye",
+            "repo": "pipenet",
+            "stars": 518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunneller",
+          "description": "Open source. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 182522521,
+            "language": "Go",
+            "last_commit": "2024-08-13T07:36:22Z",
+            "owner": "skx",
+            "repo": "tunneller",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crowbar",
+          "description": "Tunnels TCP connections over HTTP GET and POST requests.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 30258369,
+            "language": "Go",
+            "last_commit": "2021-01-24T08:21:05Z",
+            "owner": "q3k",
+            "repo": "crowbar",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunelo",
+          "description": "Single binary Rust QUIC tunnel with client, self-hostable relay, and built-in file server/web explorer. Outbound-only, instant public HTTPS subdomain, no account. MIT (declared; LICENSE file pending).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1185759817,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T11:10:44Z",
+            "owner": "jiweiyuan",
+            "repo": "tunelo",
+            "stars": 429
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunnel",
+          "description": "This one is a Golang library, not a program you can just run. However, it looks easy to use for creating custom solutions. Uses a single TCP socket, and yamux for multiplexing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 36421890,
+            "language": "Go",
+            "last_commit": "2023-10-20T13:43:58Z",
+            "owner": "koding",
+            "repo": "tunnel",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mmar",
+          "description": "A zero-dependency, self-hostable, cross-platform HTTP tunnel that exposes your localhost to the world on a public URL. AGPL-3.0 License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 851447256,
+            "language": "Go",
+            "last_commit": "2025-12-06T09:33:34Z",
+            "owner": "yusuf-musleh",
+            "repo": "mmar",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "remotemoe",
+          "description": "SSH-based, with custom golang server. Does some cool unique things. Instead of just plain tunnels, it drops you into a basic CLI UI that offers several useful commands interactively, such as adding a custom hostname. Also allows end-to-end encryption for both HTTPS and upstream SSH. Doesn't appear to offer non-e2e HTTPS, ie no auto Let's Encrypt support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 271483128,
+            "language": "Go",
+            "last_commit": "2024-06-03T14:00:47Z",
+            "owner": "fasmide",
+            "repo": "remotemoe",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-tunnel",
+          "description": "Simple Docker-based nginx+SSH solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194411251,
+            "language": "Shell",
+            "last_commit": "2022-05-24T03:31:22Z",
+            "owner": "vitobotta",
+            "repo": "docker-tunnel",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EXPOSE",
+          "description": "SSH-based open source tool, with no configuration or installation, distributed worldwide, to expose your local services. Uses your GitHub username and public SSH keys to authenticate you and provide you with a short personalised URL. AGP-3.0 License. Written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 791821842,
+            "language": "Python",
+            "last_commit": "2025-08-28T18:19:47Z",
+            "owner": "gaetanlhf",
+            "repo": "EXPOSE",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BitBang",
+          "description": "Turn your machine into a URL. Your computer and browser connect peer-to-peer over WebRTC. Whoever opens the link needs no account and nothing installed. Shell, file sharing, and HTTP/WebSocket proxy over a single URL. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1218570265,
+            "language": "Go",
+            "last_commit": "2026-08-16T02:55:24Z",
+            "owner": "richlegrand",
+            "repo": "bitbang-cli",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunwg",
+          "description": "Wireguard in userspace based. Offers end to end encrypted TLS with LetsEncrypt certificates generated automatically by clients, with support for custom domains. Server can be self-hosted and doesn't require storing any data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 589689484,
+            "language": "Go",
+            "last_commit": "2026-05-16T13:05:08Z",
+            "owner": "ntnj",
+            "repo": "tunwg",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jerson/pgrok",
+          "description": "Fork of ngrok 1.0, with more recent commits. Archived.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 199860897,
+            "language": "Go",
+            "last_commit": "2022-05-30T14:53:46Z",
+            "owner": "jerson",
+            "repo": "pgrok",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hypertunnel",
+          "description": "Public server appears to be down. MIT Licensed. Written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136878671,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T19:13:24Z",
+            "owner": "berstend",
+            "repo": "hypertunnel",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portal",
+          "description": "Self-hostable relay tunnel (MIT, Go). publishes a localhost service at a public HTTPS URL through community or self-hosted relays; outbound-only, no account, raw TCP/UDP, SNI-based routing, tenant-side TLS termination. Similar to boringproxy/ngrok.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079713761,
+            "language": "Go",
+            "last_commit": "2026-08-19T05:27:40Z",
+            "owner": "gosuda",
+            "repo": "portal-tunnel",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reverse-tunnel",
+          "description": "Support TCP and UDP tunnels. Has docker images. Supports Let's Encrypt. MIT License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140345193,
+            "language": "Go",
+            "last_commit": "2023-10-15T07:29:32Z",
+            "owner": "snsinfu",
+            "repo": "reverse-tunnel",
+            "stars": 244
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chiSSL",
+          "description": "Lightweight version of Chisel that allows you to expose local servers running on your development machine to the internet with valid SSL certificates. MIT License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 805021502,
+            "language": "Go",
+            "last_commit": "2025-12-09T19:28:59Z",
+            "owner": "unblocked",
+            "repo": "chissl",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "srv.us",
+          "description": "SSH-based. Terminates TLS. Hostnames based on your key, optionally GitHub and/or GitLab username. 0BSD License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510592011,
+            "language": "Go",
+            "last_commit": "2026-07-10T14:09:40Z",
+            "owner": "xmit-co",
+            "repo": "srv.us",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jkuri/bore",
+          "description": "Reverse HTTP/TCP proxy via SSH. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275677190,
+            "language": "TypeScript",
+            "last_commit": "2026-06-21T16:57:25Z",
+            "owner": "jkuri",
+            "repo": "bore",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vgrok",
+          "description": "[] - CLI to get a secure public URL for your local web server. Built with Vercel Sandbox and written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1031490841,
+            "language": "TypeScript",
+            "last_commit": "2026-03-29T22:20:36Z",
+            "owner": "styfle",
+            "repo": "vgrok",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h2tunnel",
+          "description": "A pure Node.js TCP tunnel with zero dependencies in less than 500 LOC. Supports IPv4 and IPv6, half-open / half-closed connections, encrypted using TLS. Uses HTTP2 under the hood for multiplexing. MIT License.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 479779483,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T07:59:07Z",
+            "owner": "boronine",
+            "repo": "h2tunnel",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gt",
+          "description": "Supports peer-to-peer direct connection (P2P) and Internet relay. Focus on performance. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 432889295,
+            "language": "Go",
+            "last_commit": "2024-10-30T00:37:47Z",
+            "owner": "ao-space",
+            "repo": "gt",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "docker-wireguard-tunnel",
+          "description": "Connect two or more Docker servers together sharing container ports between them via a WireGuard tunnel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 635679788,
+            "language": "Shell",
+            "last_commit": "2026-08-04T05:58:36Z",
+            "owner": "DigitallyRefined",
+            "repo": "docker-wireguard-tunnel",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "holepunch",
+          "description": "Uses SSH for muxing. Domain has expired. AGP-3.0 Licensed. Written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172134722,
+            "language": "Python",
+            "last_commit": "2019-11-02T06:32:47Z",
+            "owner": "CypherpunkArmory",
+            "repo": "holepunch",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cactus-tunnel",
+          "description": "🌵 A charming TCP tunnel over WebSocket and Browser. Written in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 448473651,
+            "language": "TypeScript",
+            "last_commit": "2026-06-16T14:54:17Z",
+            "owner": "jeffreytse",
+            "repo": "cactus-tunnel",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tunnelite",
+          "description": "A self-hostable tunneling solution for TCP, HTTP and WS connections over websockets. CLI client. MIT License. Written in .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 825622022,
+            "language": "C#",
+            "last_commit": "2025-04-22T11:35:38Z",
+            "owner": "cristipufu",
+            "repo": "tunnelite",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "specter",
+          "description": "Interesting approach utilizing a DHT. QUIC transport. MIT License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 492072662,
+            "language": "Go",
+            "last_commit": "2026-05-08T11:56:39Z",
+            "owner": "zllovesuki",
+            "repo": "specter",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wireport",
+          "description": "Multi-protocol tunneling (HTTP[S]/2, WebSockets, gRPC, TCP, UDP, auto-TLS/SSL). Securely resolves remote Docker container names as local hostnames. Easy self-hosting (no tinkering with docker-compose and configs). MIT License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968349127,
+            "language": "Go",
+            "last_commit": "2026-06-27T21:23:22Z",
+            "owner": "MultionLabs",
+            "repo": "wireport",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YTunnel",
+          "description": "MIT Licensed, Rust powered, uses your domains and creates Cloudflare Tunnels with easy to use TUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1138291716,
+            "language": "Rust",
+            "last_commit": "2026-08-05T18:16:05Z",
+            "owner": "yetidevworks",
+            "repo": "ytunnel",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ngtor",
+          "description": "Easily expose local services via Tor. Written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 437113985,
+            "language": "Java",
+            "last_commit": "2026-08-18T06:51:17Z",
+            "owner": "theborakompanioni",
+            "repo": "ngtor",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tnnlink",
+          "description": "SSH-based. Golang. Not maintained.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 128644564,
+            "language": "Go",
+            "last_commit": "2021-05-08T17:43:58Z",
+            "owner": "faejr",
+            "repo": "tnnlink",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Punchmole",
+          "description": "Can be integrated directly into an existing Node.js project. Written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705605641,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T22:30:33Z",
+            "owner": "degola",
+            "repo": "punchmole",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hsync",
+          "description": "Works in Node.js and browsers. Any two instances can easily pair and make a peer-to-peer WebRTC connection to forward TCP/UDP ports (even in browser). No additional signaling server needed. Written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343216918,
+            "language": "JavaScript",
+            "last_commit": "2026-02-12T21:59:01Z",
+            "owner": "monteslu",
+            "repo": "hsync",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netmask",
+          "description": "A TCP/UDP self-hostable network tunneling solution that supports IPv4 and IPv6. Client has a GUI. MIT License. Written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 809434148,
+            "language": "Python",
+            "last_commit": "2024-06-03T15:00:48Z",
+            "owner": "josephdove",
+            "repo": "netmask",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ephemeral-hidden-service",
+          "description": "Create ephemeral Tor hidden services from the command line. Written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 711187524,
+            "language": "Python",
+            "last_commit": "2024-04-27T06:12:46Z",
+            "owner": "aurelg",
+            "repo": "ephemeral-hidden-service",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TunnelAPI 1.0",
+          "description": "Expose localhost to the internet. Free secure tunneling as an ngrok alternative. Appears developer focused. MIT License . Written in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325854203,
+            "language": "JavaScript",
+            "last_commit": "2025-12-07T00:26:02Z",
+            "owner": "vijaypurohit322",
+            "repo": "api-response-manager",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Open source (at least with a reasonably permissive license)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cloudflare Tunnel",
+          "description": "Excellent free option. Nicely integrates tunneling with the rest of Cloudflare's products, which include DNS and auto HTTPS. Client source code is Apache 2.0 licensed and written in Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106867604,
+            "language": "Go",
+            "last_commit": "2026-08-14T12:16:54Z",
+            "owner": "cloudflare",
+            "repo": "cloudflared",
+            "stars": 15295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tuns.sh",
+          "description": "SSH-based hosted tunnel from pico.sh. Uses the system SSH client with no additional installation; exposes a local service at with automatic HTTPS. Supports HTTP/WSS/TCP tunnels, custom domains, US/EU regions, and per-site analytics. Requires pico+ ($2/month billed yearly); the backend is open-source sish.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170887175,
+            "language": "Go",
+            "last_commit": "2026-06-25T01:20:35Z",
+            "owner": "antoniomika",
+            "repo": "sish",
+            "stars": 4696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Svix Play",
+          "description": "Free, no-signup hosted webhook relay and debugger. Its MIT-licensed CLI exposes a local HTTP webhook endpoint at an automatically generated HTTPS URL with ; intended for development rather than general-purpose production tunneling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 342259394,
+            "language": "Rust",
+            "last_commit": "2026-08-19T10:11:19Z",
+            "owner": "svix",
+            "repo": "svix-webhooks",
+            "stars": 3359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "playit.gg",
+          "description": "Specifically marketed as tunneling for game servers. Client is open source. Server is not. Has a free tier. TCP and UDP supported. Custom domains and dedicated IPs available. Client written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 445695426,
+            "language": "Rust",
+            "last_commit": "2026-08-05T15:38:41Z",
+            "owner": "playit-cloud",
+            "repo": "playit-agent",
+            "stars": 514
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StaqLab Tunnel",
+          "description": "SSH-based. The client is open source. The server doesn't appear to be.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239363758,
+            "language": null,
+            "last_commit": "2020-12-20T00:25:44Z",
+            "owner": "abhishekq61",
+            "repo": "tunnel-client",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Openport.io",
+          "description": "Open-source client, written in Go. Supports HTTP(S) and TCP. REST Api. No account needed. Web dashboard. Also works on ESP32.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 493298317,
+            "language": "Python",
+            "last_commit": "2026-02-12T12:15:31Z",
+            "owner": "openportio",
+            "repo": "openport-go",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Commercial/Closed source"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "headscale",
+          "description": "Open source implementation of Tailscale control server. Can be used with Tailscale's official open source client. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 273871859,
+            "language": "Go",
+            "last_commit": "2026-07-30T10:20:13Z",
+            "owner": "juanfont",
+            "repo": "headscale",
+            "stars": 43001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tailscale",
+          "description": "Built on WireGuard. Easy to use. Control server is closed source. Client code available with a BSD3 license + separate patents file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237523442,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:57:19Z",
+            "owner": "tailscale",
+            "repo": "tailscale",
+            "stars": 35351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetBird",
+          "description": "Open-source WireGuard®-based overlay VPN (peer-to-peer mesh) with SSO/MFA and granular access control, hosted (NetBird Cloud) or self-hosted. Its beta Reverse Proxy exposes internal services at public HTTPS URLs with automatic Let's Encrypt TLS via the dashboard or (HTTP and TCP/UDP/TLS; custom domains).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357897199,
+            "language": "Go",
+            "last_commit": "2026-08-19T12:07:40Z",
+            "owner": "netbirdio",
+            "repo": "netbird",
+            "stars": 28507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hysteria",
+          "description": "QUIC-based censorship-resistant proxy and relay (SOCKS5/HTTP, TCP/UDP forwarding, TUN/TProxy) with NAT traversal for hosting the server behind NAT (Realms). MIT License. Written in Go. Note: egress-proxy focused; no built-in public-URL/ngrok-style ingress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257434373,
+            "language": "Go",
+            "last_commit": "2026-08-18T06:52:42Z",
+            "owner": "apernet",
+            "repo": "hysteria",
+            "stars": 22352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Teleport",
+          "description": "Comprehensive control plane tool, but also supports accessing apps behind NATs. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31558937,
+            "language": "Go",
+            "last_commit": "2026-08-19T12:51:12Z",
+            "owner": "gravitational",
+            "repo": "teleport",
+            "stars": 20828
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nebula",
+          "description": "Peer-to-peer overlay network. Developed and used internally by Slack. Similar to Tailscale but completely open source. Doesn't use WireGuard. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222172014,
+            "language": "Go",
+            "last_commit": "2026-08-18T20:35:59Z",
+            "owner": "slackhq",
+            "repo": "nebula",
+            "stars": 17628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroTier",
+          "description": "Layer 2 overlay network. They take decentralization seriously, and like to say \"decentralize until it hurts, then centralize until it works.\" Written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9647856,
+            "language": "C++",
+            "last_commit": "2026-08-03T17:28:38Z",
+            "owner": "zerotier",
+            "repo": "ZeroTierOne",
+            "stars": 17027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyTier",
+          "description": "Decentralized mesh VPN / SD-WAN written in Rust. Uses NAT traversal and optional community relay nodes to connect enrolled peers; supports subnet proxy and a web console. LGPL-3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 698328708,
+            "language": "Rust",
+            "last_commit": "2026-08-18T17:10:55Z",
+            "owner": "EasyTier",
+            "repo": "EasyTier",
+            "stars": 13223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iroh",
+          "description": "A QUIC way of doing peer-peer connectivity using 'dialing by public key' for all applications. MIT or Apache 2.0 License. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469877060,
+            "language": "Rust",
+            "last_commit": "2026-08-19T11:00:11Z",
+            "owner": "n0-computer",
+            "repo": "iroh",
+            "stars": 12204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Netmaker",
+          "description": "Layer 3 peer-to-peer overlay network and private DNS. Similar to Tailscale, but with a self-hosted server/admin UI. Runs kernel WireGuard so very fast. Apache 2.0 License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 351486934,
+            "language": "Go",
+            "last_commit": "2026-08-19T12:37:38Z",
+            "owner": "gravitl",
+            "repo": "netmaker",
+            "stars": 11757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firezone",
+          "description": "Layer 3/4 overlay network. Runs on kernel WireGuard® and supports SSO using generic OIDC/SAML connectors. Distributed under Apache 2.0 license and written in Elixir/Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257787813,
+            "language": "Elixir",
+            "last_commit": "2026-08-19T10:24:19Z",
+            "owner": "firezone",
+            "repo": "firezone",
+            "stars": 9038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iodine",
+          "description": "Tunnel IPv4 over DNS to reach the internet through restrictive networks where only DNS queries are permitted. ISC License. Written in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3354902,
+            "language": "C",
+            "last_commit": "2025-09-04T19:18:00Z",
+            "owner": "yarrick",
+            "repo": "iodine",
+            "stars": 7949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n2n",
+          "description": "- Built on nodes and supernodes. GPL-3.0 license. Written in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71691212,
+            "language": "C",
+            "last_commit": "2026-08-05T08:59:21Z",
+            "owner": "ntop",
+            "repo": "n2n",
+            "stars": 6998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "innernet",
+          "description": "Similar to Netmaker, Nebula, and Tailscale. Takes advantage of existing networking concepts like CIDRs and the security properties of WireGuard to turn your computer's basic IP networking into more powerful ACL primitives. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352725385,
+            "language": "Rust",
+            "last_commit": "2026-07-28T12:00:53Z",
+            "owner": "tonarino",
+            "repo": "innernet",
+            "stars": 5532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yggdrasil",
+          "description": "- An IPv6-only, end-to-end encrypted overlay network with routing between all network participants. LGPLv3 license. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115685026,
+            "language": "Go",
+            "last_commit": "2026-06-19T21:22:02Z",
+            "owner": "yggdrasil-network",
+            "repo": "yggdrasil-go",
+            "stars": 5352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pritunl",
+          "description": "Seems quite comprehensive and complicated. OpenVPN, WireGuard, and IPSec support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12798028,
+            "language": "Python",
+            "last_commit": "2026-08-19T11:16:31Z",
+            "owner": "pritunl",
+            "repo": "pritunl",
+            "stars": 5007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portals for Mac",
+          "description": "A Mac app that uses the Ockam library to privately share a service on your Mac to anyone, anywhere. The service is shared securely over an end-to-end encrypted Ockam Portal. Apache 2.0 License. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159866229,
+            "language": "Rust",
+            "last_commit": "2026-01-04T22:01:38Z",
+            "owner": "build-trust",
+            "repo": "ockam",
+            "stars": 4630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenZiti",
+          "description": "- Overlay network. The goal of OpenZiti is to extend zero trust all the way into your application, not just to your network. Apache 2.0 license. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223431735,
+            "language": "Go",
+            "last_commit": "2026-08-19T12:21:27Z",
+            "owner": "openziti",
+            "repo": "ziti",
+            "stars": 4352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octelium",
+          "description": "A FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure. AGPL-3.0 and Apache-2.0 Licenses. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 985853356,
+            "language": "Go",
+            "last_commit": "2026-08-18T04:03:23Z",
+            "owner": "octelium",
+            "repo": "octelium",
+            "stars": 4012
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proxy.py",
+          "description": "General-purpose HTTP/HTTPS proxy framework written in Python; since v2.4.9 it also bundles , an ngrok/frp-style tunnel that exposes local HTTP/HTTPS/WebSocket/TCP services at public URLs via the hosted Jaxl relay. Note: the tunnel-client logic is downloaded from the relay at runtime, and a self-hosted relay is available by request only. BSD-3-Clause License. Written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12228178,
+            "language": "Python",
+            "last_commit": "2026-08-17T22:02:23Z",
+            "owner": "abhinavsingh",
+            "repo": "proxy.py",
+            "stars": 3549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DockFlare",
+          "description": "Self-hosted control plane that automates Cloudflare Tunnel, DNS, and Zero Trust Access from Docker labels and a web UI. GPL-3.0. Requires a Cloudflare account and API token. Website: https://dockflare.app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 964990473,
+            "language": "Python",
+            "last_commit": "2026-08-17T18:44:46Z",
+            "owner": "ChrispyBacon-dev",
+            "repo": "DockFlare",
+            "stars": 2403
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tinc",
+          "description": "Tinc is a peer-to-peer VPN daemon that supports VPNs with an arbitrary number of nodes. Instead of configuring tunnels, you give Tinc the location and public key of a few nodes in the VPN. After making the initial connections to those nodes, tinc will learn about all other nodes on the VPN, and will make connections automatically. When direct connections are not possible, data will be forwarded by intermediate nodes. Written in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1248151,
+            "language": "C",
+            "last_commit": "2026-06-27T22:08:03Z",
+            "owner": "gsliepen",
+            "repo": "tinc",
+            "stars": 2238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weron",
+          "description": "- Built on WebRTC. Can create Layer 2 and Layer 3 networks. NAT traversal via STUN and TURN. AGPL-3.0 license. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 464642335,
+            "language": "Go",
+            "last_commit": "2025-04-22T00:29:26Z",
+            "owner": "pojntfx",
+            "repo": "weron",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeVPN",
+          "description": "Fully decentralized, statically built P2P VPN on libp2p. No central server; peers discover each other via DHT. Supports file transfer and sharing TCP services between peers without a VPN interface. Apache 2.0 License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 367481529,
+            "language": "Go",
+            "last_commit": "2026-08-17T10:23:06Z",
+            "owner": "mudler",
+            "repo": "edgevpn",
+            "stars": 2062
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anywherelan",
+          "description": "Layer 3 peer-to-peer VPN. Fully mesh, with community-run coordination servers and an open-source AWL bootstrap node. Built on the libp2p networking stack (QUIC, TCP). Has NAT traversal and relaying support. Its workflow and GUI are similar to Syncthing, but for networking rather than file transfers. Available on Linux, Mac, Windows and Android. MPL-2.0 License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 345631138,
+            "language": "Go",
+            "last_commit": "2026-08-11T15:18:46Z",
+            "owner": "anywherelan",
+            "repo": "awl",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Narrowlink",
+          "description": "Self-hosted zero-trust remote access platform with gateway, agent, and client components, P2P QUIC, fine-grained access control, and automatic ACME certificates when publishing local webservers. MPL-2.0/AGPL-3.0. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 672664952,
+            "language": "Rust",
+            "last_commit": "2026-06-13T04:19:25Z",
+            "owner": "narrowlink",
+            "repo": "narrowlink",
+            "stars": 655
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bifrost",
+          "description": "Bifrost is a peer-to-peer communications engine with pluggable transports. It supports dynamic configuration of transports, listeners, forwarding rules, and can tunnel other protocols over WebRTC and Quic. Apache 2.0 License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137167041,
+            "language": "Go",
+            "last_commit": "2026-08-19T06:00:45Z",
+            "owner": "s4wave",
+            "repo": "spacewave",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "connet",
+          "description": "connet is a p2p reverse proxy with NAT traversal. Uses QUIC as a protocol and is written in Go. Apache 2.0 License.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 883117474,
+            "language": "Go",
+            "last_commit": "2026-06-27T14:16:34Z",
+            "owner": "connet-dev",
+            "repo": "connet",
+            "stars": 531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UpVPN",
+          "description": "Commercial WireGuard provisioning service whose apps use APIs to create on-demand WireGuard servers. Overlay/VPN provisioning rather than public-URL ingress.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653667843,
+            "language": "Kotlin",
+            "last_commit": "2026-08-04T18:30:14Z",
+            "owner": "upvpn",
+            "repo": "upvpn-app",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mycoria",
+          "description": "Overlay network where the IPv6 address is the key: Easily share address + public key via a DNS AAAA record or map names locally. Secure by default (firewall included). BSD-3 license. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 727454991,
+            "language": "Go",
+            "last_commit": "2026-07-13T11:41:30Z",
+            "owner": "mycoria",
+            "repo": "mycoria",
+            "stars": 298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chisel-operator",
+          "description": "Kubernetes integration for Chisel. Similar functionality to inlets. MIT License. Written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 639195565,
+            "language": "Rust",
+            "last_commit": "2026-03-21T11:10:00Z",
+            "owner": "FyraLabs",
+            "repo": "chisel-operator",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ngrok-operator",
+          "description": "Ngrok but integrated with Kubernetes, allows developers on private Kubernetes to easily access their services via Ngrok.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278446728,
+            "language": "Go",
+            "last_commit": "2023-03-10T12:22:37Z",
+            "owner": "zufardhiyaulhaq",
+            "repo": "ngrok-operator",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frp-operator",
+          "description": "Kubernetes integration for FRP. MIT License. Written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 502337032,
+            "language": "Go",
+            "last_commit": "2026-05-22T04:14:04Z",
+            "owner": "zufardhiyaulhaq",
+            "repo": "frp-operator",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Overlay networks and other advanced tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-18T19:55:21.204Z",
+    "last_updated": "2026-08-19T12:58:12.834Z",
     "original_repository": "anderspitman/awesome-tunneling",
+    "original_repository_id": 296142821,
     "original_repository_sha": "afd6da381a3ef2915a4979dead6c09de3f31b573",
     "enhanced_repository": "enhansome/enhansome-tunneling",
     "enhanced_repository_description": null,
