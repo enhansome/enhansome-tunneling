@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+            "homepage": null,
             "id": 48378947,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:56:09Z",
+            "open_issues": 49,
             "owner": "fatedier",
             "repo": "frp",
-            "stars": 109085
+            "stars": 109087,
+            "topics": [
+              "expose",
+              "firewall",
+              "frp",
+              "go",
+              "http-proxy",
+              "nat",
+              "p2p",
+              "proxy",
+              "reverse-proxy",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -26,12 +42,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Unified ingress for developers",
+            "homepage": "https://ngrok.com",
             "id": 8900723,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-26T18:11:18Z",
+            "open_issues": 0,
             "owner": "inconshreveable",
             "repo": "ngrok",
-            "stars": 24429
+            "stars": 24429,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -42,12 +63,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.",
+            "homepage": "https://pangolin.net",
             "id": 863835427,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:49:56Z",
+            "open_issues": 120,
             "owner": "fosrl",
             "repo": "pangolin",
-            "stars": 22532
+            "stars": 22532,
+            "topics": [
+              "identity-management",
+              "iot",
+              "nat-traversal",
+              "oidc",
+              "pam",
+              "private-access",
+              "proxy",
+              "remote-access",
+              "reverse-proxy",
+              "self-hosted",
+              "single-sign-on",
+              "ssh",
+              "tunneling",
+              "vpn",
+              "wireguard",
+              "zero-trust",
+              "zero-trust-network-access",
+              "ztna"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -58,12 +103,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "expose yourself",
+            "homepage": "https://localtunnel.me",
             "id": 4696595,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-29T16:17:30Z",
+            "open_issues": 166,
             "owner": "localtunnel",
             "repo": "localtunnel",
-            "stars": 22465
+            "stars": 22465,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -74,12 +124,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast TCP/UDP tunnel over HTTP",
+            "homepage": null,
             "id": 31311037,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:17:25Z",
+            "open_issues": 244,
             "owner": "jpillora",
             "repo": "chisel",
-            "stars": 16462
+            "stars": 16462,
+            "topics": [
+              "golang",
+              "http",
+              "tcp",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -90,12 +150,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+            "homepage": null,
             "id": 438123986,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T15:38:44Z",
+            "open_issues": 94,
             "owner": "rathole-org",
             "repo": "rathole",
-            "stars": 14086
+            "stars": 14086,
+            "topics": [
+              "firewall",
+              "frp",
+              "http",
+              "nat",
+              "network",
+              "ngrok",
+              "noise",
+              "noise-protocol",
+              "proxy",
+              "rust",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -106,12 +183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.",
+            "homepage": null,
             "id": 24043280,
             "language": "Python",
+            "license": "LGPL-2.1",
             "last_commit": "2026-08-28T10:36:35Z",
+            "open_issues": 212,
             "owner": "sshuttle",
             "repo": "sshuttle",
-            "stars": 13532
+            "stars": 13532,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -122,12 +204,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+            "homepage": "http://bore.pub",
             "id": 477528511,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-04T18:00:26Z",
+            "open_issues": 14,
             "owner": "ekzhang",
             "repo": "bore",
-            "stars": 11464
+            "stars": 11465,
+            "topics": [
+              "cli",
+              "localhost",
+              "networking",
+              "proxy",
+              "rust",
+              "self-hosted",
+              "tcp",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -138,12 +234,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GO Simple Tunnel - a simple tunnel written in golang",
+            "homepage": "https://gost.run",
             "id": 240039769,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-29T01:27:09Z",
+            "open_issues": 97,
             "owner": "go-gost",
             "repo": "gost",
-            "stars": 7369
+            "stars": 7370,
+            "topics": [
+              "dns",
+              "dtls",
+              "golang",
+              "grpc",
+              "http",
+              "http2",
+              "http3",
+              "https",
+              "icmp-tunnel",
+              "kcp",
+              "quic",
+              "reverse-proxy",
+              "shadowsocks",
+              "socks4a",
+              "socks5",
+              "ssh",
+              "tun2socks",
+              "tunnel",
+              "tuntap",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -154,12 +276,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose your local web server to the internet with a public URL.",
+            "homepage": "https://tunnelto.dev",
             "id": 249120770,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2022-09-24T21:28:44Z",
+            "open_issues": 51,
             "owner": "agrinman",
             "repo": "tunnelto",
-            "stars": 7036
+            "stars": 7036,
+            "topics": [
+              "async-io",
+              "expose",
+              "localhost",
+              "rust",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -170,12 +303,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available ",
+            "homepage": null,
             "id": 58835703,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T08:13:56Z",
+            "open_issues": 32,
             "owner": "erebe",
             "repo": "wstunnel",
-            "stars": 7004
+            "stars": 7004,
+            "topics": [
+              "http2",
+              "reverse-tunnel",
+              "socks",
+              "socks5",
+              "socks5-proxy",
+              "tcp-tunnel",
+              "transparent-proxy",
+              "tunneling",
+              "udp-tunnel",
+              "websocket",
+              "wireguard",
+              "wireguard-tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -186,12 +337,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
+            "homepage": "https://ssi.sh",
             "id": 170887175,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-25T01:20:35Z",
+            "open_issues": 23,
             "owner": "antoniomika",
             "repo": "sish",
-            "stars": 4705
+            "stars": 4705,
+            "topics": [
+              "http",
+              "https",
+              "ngrok",
+              "serveo",
+              "ssh",
+              "tcp",
+              "tunnel",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -202,12 +367,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure internet sharing made simple.",
+            "homepage": "https://zrok.io",
             "id": 515311500,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T17:38:16Z",
+            "open_issues": 123,
             "owner": "openziti",
             "repo": "zrok",
-            "stars": 4650
+            "stars": 4651,
+            "topics": [
+              "file-sharing",
+              "golang",
+              "network",
+              "peer-to-peer",
+              "reverse-proxy",
+              "security",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -218,12 +396,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A beautiful, fully open-source, tunneling service - written in pure PHP",
+            "homepage": "https://expose.dev",
             "id": 255703597,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-07-09T14:14:25Z",
+            "open_issues": 28,
             "owner": "exposedev",
             "repo": "expose",
-            "stars": 4568
+            "stars": 4568,
+            "topics": [
+              "expose",
+              "tunnel-server",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -234,12 +421,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding",
+            "homepage": null,
             "id": 611249232,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-02T03:38:34Z",
+            "open_issues": 4,
             "owner": "pgrok",
             "repo": "pgrok",
-            "stars": 3631
+            "stars": 3631,
+            "topics": [
+              "go",
+              "http",
+              "ngrok-alternative",
+              "oidc",
+              "pgrok",
+              "reverse-tunnel",
+              "ssh-tunnel",
+              "sso",
+              "tcp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -250,12 +452,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and secure tunnels over HTTP/2",
+            "homepage": null,
             "id": 70700205,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-02T16:09:14Z",
+            "open_issues": 59,
             "owner": "mmatczuk",
             "repo": "go-http-tunnel",
-            "stars": 3331
+            "stars": 3331,
+            "topics": [
+              "basic-authentication",
+              "go",
+              "golang",
+              "http",
+              "http2",
+              "local-machine",
+              "proxy",
+              "tcp",
+              "tls",
+              "tls-tunnel",
+              "tunnel",
+              "url"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -266,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose localhost servers to the Internet",
+            "homepage": null,
             "id": 484873,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-05-17T07:58:46Z",
+            "open_issues": 13,
             "owner": "progrium",
             "repo": "localtunnel",
-            "stars": 3227
+            "stars": 3227,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -282,12 +507,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose local http, tcp or websocket connections to the public internet",
+            "homepage": "https://portr.dev",
             "id": 721585564,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-16T08:08:19Z",
+            "open_issues": 6,
             "owner": "amalshaji",
             "repo": "portr",
-            "stars": 3181
+            "stars": 3181,
+            "topics": [
+              "cli",
+              "developer-tools",
+              "golang",
+              "http",
+              "ngrok-alternative",
+              "ngrok-replacement",
+              "open-source",
+              "python",
+              "reverse-tunnel",
+              "self-hosted",
+              "shadcn-svelte",
+              "shadcn-ui",
+              "ssh-tunnel",
+              "svelte",
+              "tcp",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -298,12 +545,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",
+            "homepage": null,
             "id": 774198099,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:06:17Z",
+            "open_issues": 6,
             "owner": "andydunstall",
             "repo": "piko",
-            "stars": 2185
+            "stars": 2185,
+            "topics": [
+              "golang",
+              "http",
+              "http-proxy",
+              "reverse-proxy",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -314,12 +572,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect like there is no firewall. Securely.",
+            "homepage": "https://www.gsocket.io",
             "id": 296670766,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T12:29:36Z",
+            "open_issues": 36,
             "owner": "hackerschoice",
             "repo": "gsocket",
-            "stars": 1919
+            "stars": 1919,
+            "topics": [
+              "firewall",
+              "hacking",
+              "networking",
+              "security"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -330,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tunnelmole - Connect to local servers from anywhere",
+            "homepage": null,
             "id": 598995344,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-13T08:54:06Z",
+            "open_issues": 17,
             "owner": "robbie-cahill",
             "repo": "tunnelmole-client",
-            "stars": 1884
+            "stars": 1884,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -346,12 +619,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted Docker native tunneling to localhost. Expose local docker containers to the public Internet via a simple docker compose interface.",
+            "homepage": "https://gethomerun.app",
             "id": 535326365,
             "language": "Shell",
+            "license": "AGPL-3.0",
             "last_commit": "2025-03-28T15:24:51Z",
+            "open_issues": 8,
             "owner": "hintjen",
             "repo": "selfhosted-gateway",
-            "stars": 1734
+            "stars": 1734,
+            "topics": [
+              "caddy",
+              "docker",
+              "docker-compose",
+              "nginx",
+              "sni",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -362,12 +647,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self hosted ingress-as-a-service platform that allows you to expose applications and services running in private or local networks to the internet",
+            "homepage": "https://www.wiredoor.net",
             "id": 957125950,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T21:16:22Z",
+            "open_issues": 7,
             "owner": "wiredoor",
             "repo": "wiredoor",
-            "stars": 1620
+            "stars": 1620,
+            "topics": [
+              "api-server",
+              "ingress-service",
+              "management-system",
+              "nginx",
+              "reverse-proxy",
+              "self-hosted",
+              "tunneling",
+              "vpn",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -378,12 +678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.",
+            "homepage": null,
             "id": 297804419,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-24T20:15:50Z",
+            "open_issues": 3,
             "owner": "anderspitman",
             "repo": "SirTunnel",
-            "stars": 1567
+            "stars": 1567,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -394,12 +699,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "join public router. quickly.",
+            "homepage": "https://jprq.io",
             "id": 256722315,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-06-20T12:10:26Z",
+            "open_issues": 52,
             "owner": "azimjohn",
             "repo": "jprq",
-            "stars": 1539
+            "stars": 1539,
+            "topics": [
+              "ngrok-alternative",
+              "ngrok-replacement",
+              "tunnel-server",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -410,12 +725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.",
+            "homepage": null,
             "id": 298906197,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-06T10:13:37Z",
+            "open_issues": 60,
             "owner": "boringproxy",
             "repo": "boringproxy",
-            "stars": 1383
+            "stars": 1383,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -426,12 +746,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wiretap is a transparent, VPN-like proxy server that tunnels traffic via WireGuard and requires no special privileges to run.",
+            "homepage": null,
             "id": 567938688,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-30T19:07:41Z",
+            "open_issues": 14,
             "owner": "sandialabs",
             "repo": "wiretap",
-            "stars": 1107
+            "stars": 1107,
+            "topics": [
+              "golang",
+              "infosec",
+              "proxy",
+              "scr-2819",
+              "snl-applications",
+              "snl-cyber-sec",
+              "tunnel",
+              "vpn",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -442,12 +777,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NPS Enhanced — Lightweight intranet tunneling and reverse proxy with Web UI | NPS 内网穿透 反向代理 增强版 全修 新版 二开",
+            "homepage": "https://d-jy.net/docs/nps/",
             "id": 877472223,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-10T19:13:48Z",
+            "open_issues": 30,
             "owner": "djylb",
             "repo": "nps",
-            "stars": 1063
+            "stars": 1063,
+            "topics": [
+              "expose",
+              "firewall",
+              "frp",
+              "go",
+              "http",
+              "http-proxy",
+              "nat",
+              "nat-traversal",
+              "nps",
+              "p2p",
+              "panel",
+              "proxy",
+              "reverse-proxy",
+              "self-hosted",
+              "socks",
+              "socks5",
+              "ssh",
+              "tcp",
+              "tunnel",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -458,12 +819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse Tunnels in Go over HTTP/3 and QUIC",
+            "homepage": "https://www.flipt.io",
             "id": 781488171,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-11T16:51:32Z",
+            "open_issues": 7,
             "owner": "flipt-io",
             "repo": "reverst",
-            "stars": 1004
+            "stars": 1004,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -474,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python implementation of the PageKite remote front-end protocols.",
+            "homepage": "http://pagekite.org/",
             "id": 1016685,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-01-13T14:17:27Z",
+            "open_issues": 20,
             "owner": "pagekite",
             "repo": "PyPagekite",
-            "stars": 751
+            "stars": 751,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -490,12 +861,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted, secure tunnel server in Rust. Expose local HTTP/HTTPS/TCP/UDP services to the public internet via TLS-encrypted WebSocket. Open-source, pay-as-you-go managed option, MCP server for AI agents.",
+            "homepage": "https://rustunnel.com",
             "id": 1178265503,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-31T16:21:20Z",
+            "open_issues": 1,
             "owner": "joaoh82",
             "repo": "rustunnel",
-            "stars": 652
+            "stars": 652,
+            "topics": [
+              "api-gateway",
+              "mcp-server",
+              "ngrok-alternative",
+              "reverse-proxy",
+              "rust",
+              "rustunnel",
+              "self-hosted",
+              "tunnel",
+              "tunneling",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -506,12 +893,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Onion addresses for anything.",
+            "homepage": null,
             "id": 451027194,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:58:03Z",
+            "open_issues": 21,
             "owner": "cmars",
             "repo": "onionpipe",
-            "stars": 616
+            "stars": 616,
+            "topics": [
+              "anonymity",
+              "decentralized",
+              "forwarding",
+              "hacktoberfest",
+              "networking",
+              "onion-service",
+              "tor",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -522,12 +923,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose localhost to the internet",
+            "homepage": "https://tunnl.gg",
             "id": 1109734874,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-10T17:19:42Z",
+            "open_issues": 5,
             "owner": "klipitkas",
             "repo": "tunnl.gg",
-            "stars": 544
+            "stars": 544,
+            "topics": [
+              "expose",
+              "internet",
+              "localhost",
+              "proxy",
+              "reverse-proxy",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -538,12 +951,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose local ports to the internet in seconds",
+            "homepage": "https://portbuddy.dev/",
             "id": 1091696645,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-12T11:25:02Z",
+            "open_issues": 2,
             "owner": "amak-tech",
             "repo": "port-buddy",
-            "stars": 536
+            "stars": 536,
+            "topics": [
+              "localhost-tunnel",
+              "ngrok-alternative",
+              "port-forwarding",
+              "port-forwarding-tcp",
+              "port-forwarding-udp",
+              "reverse-proxy",
+              "reverse-proxy-ssh",
+              "tcp-tunnel",
+              "udp-tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -554,12 +982,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose your local server to the public internet instantly",
+            "homepage": "https://pipenet.dev",
             "id": 1137302003,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-13T21:32:40Z",
+            "open_issues": 1,
             "owner": "punkpeye",
             "repo": "pipenet",
-            "stars": 522
+            "stars": 522,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -570,12 +1003,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Allow internal services, running on localhost, to be accessed over the internet..",
+            "homepage": null,
             "id": 182522521,
             "language": "Go",
+            "license": "GPL-2.0",
             "last_commit": "2024-08-13T07:36:22Z",
+            "open_issues": 2,
             "owner": "skx",
             "repo": "tunneller",
-            "stars": 488
+            "stars": 488,
+            "topics": [
+              "go",
+              "golang",
+              "ngrok",
+              "proxy",
+              "selfhosted",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -586,12 +1031,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Migrated to Codeberg",
+            "homepage": "https://codeberg.org/q3k/crowbar",
             "id": 30258369,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-01-24T08:21:05Z",
+            "open_issues": 6,
             "owner": "q3k",
             "repo": "crowbar",
-            "stars": 474
+            "stars": 474,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -602,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tunnel Tool, faster than frp, cloudflared, ngrok",
+            "homepage": "https://tunelo.net",
             "id": 1185759817,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-14T11:10:44Z",
+            "open_issues": 1,
             "owner": "jiweiyuan",
             "repo": "tunelo",
-            "stars": 430
+            "stars": 430,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -618,12 +1073,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tunnel proxy package in Go",
+            "homepage": null,
             "id": 36421890,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-10-20T13:43:58Z",
+            "open_issues": 7,
             "owner": "koding",
             "repo": "tunnel",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -634,12 +1094,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your machine into a URL. Peer-to-peer over WebRTC -- no account, no client to install, no port forwarding.",
+            "homepage": "https://bitba.ng",
             "id": 1218570265,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-29T00:33:36Z",
+            "open_issues": 9,
             "owner": "richlegrand",
             "repo": "bitbang-cli",
-            "stars": 331
+            "stars": 331,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -650,12 +1115,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mmar is a zero-dependency, self-hostable, cross-platform HTTP tunnel that exposes your localhost to the world on a public URL. Written in Go.",
+            "homepage": null,
             "id": 851447256,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2025-12-06T09:33:34Z",
+            "open_issues": 3,
             "owner": "yusuf-musleh",
             "repo": "mmar",
-            "stars": 312
+            "stars": 312,
+            "topics": [
+              "cross-platform",
+              "golang",
+              "http",
+              "http-tunnel",
+              "self-hosted",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -666,12 +1143,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tunnels to localhost and other ssh plumbing",
+            "homepage": null,
             "id": 271483128,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-06-03T14:00:47Z",
+            "open_issues": 15,
             "owner": "fasmide",
             "repo": "remotemoe",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "golang",
+              "ssh",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -682,12 +1168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Docker-based self hosted alternative to Ngrok",
+            "homepage": null,
             "id": 194411251,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-05-24T03:31:22Z",
+            "open_issues": 4,
             "owner": "vitobotta",
             "repo": "docker-tunnel",
-            "stars": 292
+            "stars": 292,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -698,12 +1189,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your no-config, no-install, globally distributed open-source tool to expose your local services",
+            "homepage": "https://expose.sh",
             "id": 791821842,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-28T18:19:47Z",
+            "open_issues": 1,
             "owner": "gaetanlhf",
             "repo": "EXPOSE",
-            "stars": 289
+            "stars": 289,
+            "topics": [
+              "cli",
+              "distributed",
+              "expose",
+              "github",
+              "locahost",
+              "nginx",
+              "nodejs",
+              "openresty",
+              "python",
+              "qrcode",
+              "secure",
+              "server",
+              "terminal",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -714,12 +1225,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure private tunnel to your local servers",
+            "homepage": "https://tunwg.com",
             "id": 589689484,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-16T13:05:08Z",
+            "open_issues": 3,
             "owner": "ntnj",
             "repo": "tunwg",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "ngrok-alternative",
+              "self-hosted",
+              "tunnel",
+              "wireguard",
+              "wireguard-tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -730,12 +1252,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Free Introspected tunnels to localhost, like ngrok but free and unlimited",
+            "homepage": "https://hub.docker.com/r/jerson/pgrok",
             "id": 199860897,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-30T14:53:46Z",
+            "open_issues": 0,
             "owner": "jerson",
             "repo": "pgrok",
-            "stars": 284
+            "stars": 284,
+            "topics": [
+              "docker",
+              "golang",
+              "linux",
+              "macos",
+              "ngrok",
+              "pgrok",
+              "proxy",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -746,12 +1282,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Expose any local TCP/IP service on the internet.",
+            "homepage": "https://hypertunnel.ga",
             "id": 136878671,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T19:13:24Z",
+            "open_issues": 32,
             "owner": "berstend",
             "repo": "hypertunnel",
-            "stars": 269
+            "stars": 269,
+            "topics": [
+              "expose-localhost",
+              "free-service",
+              "hypertunnel",
+              "localtunnel",
+              "ngrok",
+              "tcp-relay"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -762,12 +1310,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Publishes localhost services to the agentic web through self-hostable, trustless relays.",
+            "homepage": "https://gosuda.github.io/portal-tunnel/",
             "id": 1079713761,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:49:08Z",
+            "open_issues": 10,
             "owner": "gosuda",
             "repo": "portal-tunnel",
-            "stars": 265
+            "stars": 265,
+            "topics": [
+              "agent-skills",
+              "agentic-web",
+              "e2ee",
+              "nat-traversal",
+              "ngrok-alternative",
+              "relay",
+              "self-hosted",
+              "self-hosting",
+              "tor",
+              "trustless",
+              "tunneling",
+              "x402-payment"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -778,12 +1344,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse tunnel TCP and UDP",
+            "homepage": null,
             "id": 140345193,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-15T07:29:32Z",
+            "open_issues": 14,
             "owner": "snsinfu",
             "repo": "reverse-tunnel",
-            "stars": 244
+            "stars": 244,
+            "topics": [
+              "tcp",
+              "tunneling",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -794,12 +1369,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool to create HTTPS reverse tunnels",
+            "homepage": "https://unblocked.github.io/chissl/",
             "id": 805021502,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-09T19:28:59Z",
+            "open_issues": 6,
             "owner": "unblocked",
             "repo": "chissl",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "admin-dashboard",
+              "chisel",
+              "golang",
+              "https",
+              "reverse-tunnel",
+              "ssl",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -810,12 +1398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ssh to expose local HTTP services online, CLI pastebin, etc.",
+            "homepage": "https://docs.srv.us",
             "id": 510592011,
             "language": "Go",
+            "license": "0BSD",
             "last_commit": "2026-07-10T14:09:40Z",
+            "open_issues": 10,
             "owner": "xmit-co",
             "repo": "srv.us",
-            "stars": 179
+            "stars": 179,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -826,12 +1419,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse HTTP/TCP proxy to help you expose a local server behind a NAT or firewall to the internet via secure SSH tunnels.",
+            "homepage": "https://bore.digital",
             "id": 275677190,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-21T16:57:25Z",
+            "open_issues": 15,
             "owner": "jkuri",
             "repo": "bore",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "localtunnel",
+              "ngrok",
+              "ssh",
+              "ssh-server",
+              "tunnel",
+              "tunnel-client",
+              "tunnel-server",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -842,12 +1449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪐 Get a secure public URL for a local web server so you can trigger webhooks",
+            "homepage": null,
             "id": 1031490841,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-29T22:20:36Z",
+            "open_issues": 2,
             "owner": "styfle",
             "repo": "vgrok",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -858,12 +1470,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TCP over HTTP/2",
+            "homepage": "https://www.boronine.com/2025/06/01/h2tunnel-TCP-over-HTTP2/",
             "id": 479779483,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:47:54Z",
+            "open_issues": 2,
             "owner": "boronine",
             "repo": "h2tunnel",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "ngrok",
+              "proxy",
+              "tunnel",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -874,12 +1496,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast WebSocket(s)/HTTP(s)/TCP relay proxy for making tunnels to localhost. ",
+            "homepage": "https://ao.space",
             "id": 432889295,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-30T00:37:47Z",
+            "open_issues": 6,
             "owner": "ao-space",
             "repo": "gt",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "dev",
+              "fast",
+              "firewall",
+              "http",
+              "nat",
+              "p2p",
+              "proxy",
+              "relay",
+              "remote",
+              "tcp",
+              "tunnel",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -890,12 +1530,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect two or more Docker servers together sharing container ports between them via a WireGuard tunnel",
+            "homepage": null,
             "id": 635679788,
             "language": "Shell",
+            "license": "ISC",
             "last_commit": "2026-08-04T05:58:36Z",
+            "open_issues": 0,
             "owner": "DigitallyRefined",
             "repo": "docker-wireguard-tunnel",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "docker-tunnel",
+              "encription",
+              "security",
+              "tunnel",
+              "tunnel-client",
+              "tunnel-server",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -906,12 +1559,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Holepunch API",
+            "homepage": null,
             "id": 172134722,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2019-11-02T06:32:47Z",
+            "open_issues": 4,
             "owner": "CypherpunkArmory",
             "repo": "holepunch",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "python",
+              "rest-api",
+              "reverse-tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -922,12 +1584,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌵 A charming TCP tunnel over WebSocket and Browser.",
+            "homepage": null,
             "id": 448473651,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-16T14:54:17Z",
+            "open_issues": 0,
             "owner": "jeffreytse",
             "repo": "cactus-tunnel",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "awesome",
+              "browser",
+              "bypass",
+              "cli",
+              "fast",
+              "http",
+              "nodejs",
+              "port-forward",
+              "proxy",
+              "proxy-server",
+              "reverse-proxy",
+              "socks-proxy",
+              "ssh",
+              "ssh-tunnel",
+              "tcp",
+              "tcp-proxy",
+              "tcp-tunnel",
+              "tunnel",
+              "typescript",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -938,12 +1626,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TCP, HTTP, SSE and WS tunneling in .NET with SignalR",
+            "homepage": "https://tunnelite.com",
             "id": 825622022,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-04-22T11:35:38Z",
+            "open_issues": 2,
             "owner": "cristipufu",
             "repo": "tunnelite",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "http-tunneling",
+              "net8",
+              "signalr",
+              "tcp-tunnel",
+              "tunnel",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -954,12 +1654,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TUI-first CLI for managing Cloudflare Tunnels with custom domains",
+            "homepage": "https://yetidevworks.com/ytunnel",
             "id": 1138291716,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-05T18:16:05Z",
+            "open_issues": 0,
             "owner": "yetidevworks",
             "repo": "ytunnel",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "cli",
+              "cloudflare",
+              "cloudflare-tunnel",
+              "networking",
+              "ngrok-alternative",
+              "ratatui",
+              "rust",
+              "terminal",
+              "tui",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -970,12 +1686,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "like ngrok, but more ambitious with DHT for flavor",
+            "homepage": null,
             "id": 492072662,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-08T11:56:39Z",
+            "open_issues": 3,
             "owner": "zllovesuki",
             "repo": "specter",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "chord",
+              "chord-dht",
+              "chord-protocol",
+              "keyless",
+              "networking",
+              "ngrok",
+              "quic",
+              "tls",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -986,12 +1717,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted ingress proxy & VPN tunnel. Securely exposes private local & Docker-based services to the Internet, with free, automatically renewable SSL certificates and docker container hostname resolution.",
+            "homepage": "https://github.com/MultionLabs/wireport",
             "id": 968349127,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-27T21:23:22Z",
+            "open_issues": 0,
             "owner": "MultionLabs",
             "repo": "wireport",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "caddy",
+              "coredns",
+              "docker-proxy",
+              "ingress",
+              "ingress-proxy",
+              "ingress-service",
+              "kubernetes-alternative",
+              "ngrok-alternative",
+              "ngrok-replacement",
+              "reverse-proxy",
+              "self-hosted",
+              "ssl-certificates",
+              "subnet-proxy",
+              "tunnel-proxy",
+              "tunneling",
+              "vpn",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1002,12 +1756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily expose local services via Tor",
+            "homepage": null,
             "id": 437113985,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T20:50:39Z",
+            "open_issues": 6,
             "owner": "theborakompanioni",
             "repo": "ngtor",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1018,12 +1777,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple HTTP tunnel using SSH remote port forwarding",
+            "homepage": null,
             "id": 128644564,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-08T17:43:58Z",
+            "open_issues": 1,
             "owner": "faejr",
             "repo": "tnnlink",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "github",
+              "golang",
+              "hacktoberfest",
+              "ngrok",
+              "ssh",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1034,12 +1805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Punchmole is a simple tool to give your locally running HTTP servers a public URL  and is an easy to self-host alternative to `ngrok` and/or `tunnelmole`.",
+            "homepage": null,
             "id": 705605641,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-18T22:30:33Z",
+            "open_issues": 0,
             "owner": "degola",
             "repo": "punchmole",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1050,12 +1826,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse-proxy client for Node.js and browsers. Share local servers as public URLs, tunnel TCP between peers via WebSocket.",
+            "homepage": null,
             "id": 343216918,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-02-12T21:59:01Z",
+            "open_issues": 6,
             "owner": "monteslu",
             "repo": "hsync",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "browser",
+              "localhost-tunnel",
+              "ngrok-alternative",
+              "nodejs",
+              "reverse-proxy",
+              "tcp-tunnel",
+              "tunnel",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1066,12 +1856,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A TCP/UDP self-hostable network tunneling solution that supports IPv4 and IPv6",
+            "homepage": null,
             "id": 809434148,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-03T15:00:48Z",
+            "open_issues": 0,
             "owner": "josephdove",
             "repo": "netmask",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1082,12 +1877,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create ephemeral Tor hidden services from the command line",
+            "homepage": null,
             "id": 711187524,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-27T06:12:46Z",
+            "open_issues": 0,
             "owner": "aurelg",
             "repo": "ephemeral-hidden-service",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1098,12 +1898,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TunnelAPI : Secure tunneling and API collaboration platform for modern developers.",
+            "homepage": "http://tunnelapi.in/",
             "id": 325854203,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-07T00:26:02Z",
+            "open_issues": 1,
             "owner": "vijaypurohit322",
             "repo": "api-response-manager",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "api",
+              "api-response-manager",
+              "projects",
+              "tunnel",
+              "tunnelapi",
+              "webhooks"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         }
@@ -1120,12 +1932,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloudflare Tunnel client",
+            "homepage": "https://developers.cloudflare.com/cloudflare-one/networks/connectors/cloudflare-tunnel/",
             "id": 106867604,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:38:01Z",
+            "open_issues": 537,
             "owner": "cloudflare",
             "repo": "cloudflared",
-            "stars": 15413
+            "stars": 15413,
+            "topics": [
+              "cloudflare",
+              "cloudflare-tunnel",
+              "reverse-proxy",
+              "zero-trust-network-access"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1136,12 +1958,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.",
+            "homepage": "https://ssi.sh",
             "id": 170887175,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-25T01:20:35Z",
+            "open_issues": 23,
             "owner": "antoniomika",
             "repo": "sish",
-            "stars": 4705
+            "stars": 4705,
+            "topics": [
+              "http",
+              "https",
+              "ngrok",
+              "serveo",
+              "ssh",
+              "tcp",
+              "tunnel",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1152,12 +1988,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open source and enterprise-ready webhooks service 🦀",
+            "homepage": "https://www.svix.com",
             "id": 342259394,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:51:48Z",
+            "open_issues": 61,
             "owner": "svix",
             "repo": "svix-webhooks",
-            "stars": 3374
+            "stars": 3374,
+            "topics": [
+              "api",
+              "background-jobs",
+              "background-tasks",
+              "event-driven",
+              "kafka",
+              "message-queue",
+              "pubsub",
+              "queue",
+              "rabbitmq",
+              "redis",
+              "rust",
+              "stream",
+              "webhook",
+              "webhook-dispatcher",
+              "webhook-ingester",
+              "webhook-server",
+              "webhook-service",
+              "webhooks",
+              "webhooks-server"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1168,12 +2029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The playit program",
+            "homepage": null,
             "id": 445695426,
             "language": "Rust",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-20T18:16:35Z",
+            "open_issues": 20,
             "owner": "playit-cloud",
             "repo": "playit-agent",
-            "stars": 521
+            "stars": 521,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1184,12 +2050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent for Connecting to Sarkaribabu Tunnel",
+            "homepage": null,
             "id": 239363758,
             "language": null,
+            "license": "MIT",
             "last_commit": "2020-12-20T00:25:44Z",
+            "open_issues": 6,
             "owner": "abhishekq61",
             "repo": "tunnel-client",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1200,12 +2071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Openport Client v2",
+            "homepage": null,
             "id": 493298317,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-12T12:15:31Z",
+            "open_issues": 2,
             "owner": "openportio",
             "repo": "openport-go",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         }
@@ -1222,12 +2098,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source, self-hosted implementation of the Tailscale control server",
+            "homepage": null,
             "id": 273871859,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T11:13:49Z",
+            "open_issues": 145,
             "owner": "juanfont",
             "repo": "headscale",
-            "stars": 43281
+            "stars": 43284,
+            "topics": [
+              "tailscale",
+              "tailscale-control-server",
+              "tailscale-server",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1238,12 +2124,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest, most secure way to use WireGuard and 2FA.",
+            "homepage": "https://tailscale.com",
             "id": 237523442,
             "language": "Go",
-            "last_commit": "2026-08-29T00:00:09Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T03:13:05Z",
+            "open_issues": 4496,
             "owner": "tailscale",
             "repo": "tailscale",
-            "stars": 35711
+            "stars": 35716,
+            "topics": [
+              "2fa",
+              "oauth",
+              "sso",
+              "tailscale",
+              "vpn",
+              "wireguard"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1254,12 +2152,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+            "homepage": "https://netbird.io",
             "id": 357897199,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:12:00Z",
+            "open_issues": 1578,
             "owner": "netbirdio",
             "repo": "netbird",
-            "stars": 28706
+            "stars": 28706,
+            "topics": [
+              "golang",
+              "mesh",
+              "mesh-networks",
+              "nat-traversal",
+              "netbird",
+              "vpn",
+              "wireguard",
+              "wireguard-vpn",
+              "wiretrustee",
+              "zero-trust-network-access"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1270,12 +2184,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hysteria is powerful, lightning-fast, and censorship-resistant open-source proxy software",
+            "homepage": "https://hysteria.network/",
             "id": 257434373,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T00:38:11Z",
+            "open_issues": 253,
             "owner": "HyNetworks",
             "repo": "hysteria",
-            "stars": 22386
+            "stars": 22386,
+            "topics": [
+              "censorship-circumvention",
+              "golang",
+              "http-proxy",
+              "hysteria",
+              "proxy",
+              "quic",
+              "relay",
+              "reliable-udp",
+              "socks5",
+              "tun",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1286,12 +2217,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The easiest, and most secure way to access and protect all of your infrastructure.",
+            "homepage": "https://goteleport.com",
             "id": 31558937,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T18:47:24Z",
+            "open_issues": 3331,
             "owner": "gravitational",
             "repo": "teleport",
-            "stars": 20857
+            "stars": 20857,
+            "topics": [
+              "audit",
+              "bastion",
+              "certificate",
+              "cluster",
+              "database-access",
+              "firewall",
+              "firewalls",
+              "go",
+              "golang",
+              "jumpserver",
+              "kubernetes",
+              "kubernetes-access",
+              "pam",
+              "postgres",
+              "rbac",
+              "rdp",
+              "security",
+              "ssh",
+              "teleport",
+              "teleport-binaries"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1302,12 +2259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+            "homepage": null,
             "id": 222172014,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:00:12Z",
+            "open_issues": 99,
             "owner": "slackhq",
             "repo": "nebula",
-            "stars": 17664
+            "stars": 17664,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1318,12 +2280,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Smart Ethernet Switch for Earth",
+            "homepage": "https://zerotier.com",
             "id": 9647856,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T17:28:38Z",
+            "open_issues": 397,
             "owner": "zerotier",
             "repo": "ZeroTierOne",
-            "stars": 17053
+            "stars": 17053,
+            "topics": [
+              "decentralization",
+              "networking",
+              "peer-to-peer",
+              "sd-wan",
+              "sdn",
+              "virtual-network",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1334,12 +2309,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, decentralized mesh VPN with WireGuard support.",
+            "homepage": "https://easytier.cn",
             "id": 698328708,
             "language": "Rust",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-27T18:33:42Z",
+            "open_issues": 473,
             "owner": "EasyTier",
             "repo": "EasyTier",
-            "stars": 13362
+            "stars": 13362,
+            "topics": [
+              "nat-traversal",
+              "p2p",
+              "rust",
+              "tailscale",
+              "vpn",
+              "zerotier"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1350,12 +2337,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal to your apps.",
+            "homepage": "https://iroh.computer",
             "id": 469877060,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:56:22Z",
+            "open_issues": 164,
             "owner": "n0-computer",
             "repo": "iroh",
-            "stars": 12376
+            "stars": 12377,
+            "topics": [
+              "does-anyone-read-these",
+              "holepunching",
+              "memes",
+              "multipath",
+              "p2p",
+              "quic",
+              "realtime",
+              "rust",
+              "tags",
+              "tagsoftags"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1366,12 +2369,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.",
+            "homepage": "https://netmaker.io",
             "id": 351486934,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:42:53Z",
+            "open_issues": 223,
             "owner": "gravitl",
             "repo": "netmaker",
-            "stars": 11770
+            "stars": 11770,
+            "topics": [
+              "cloud",
+              "devsecops",
+              "ipv6-support",
+              "k8s",
+              "kubernetes",
+              "mesh",
+              "mesh-network",
+              "overlay-network",
+              "secure-remote-access",
+              "security",
+              "self-hosted",
+              "site-to-site",
+              "virtual-networking",
+              "vpn",
+              "vpn-server",
+              "wg-quick",
+              "wireguard",
+              "wireguard-ui",
+              "wireguard-vpn",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1382,12 +2411,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+            "homepage": "https://www.firezone.dev",
             "id": 257787813,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:19:14Z",
+            "open_issues": 403,
             "owner": "firezone",
             "repo": "firezone",
-            "stars": 9045
+            "stars": 9045,
+            "topics": [
+              "cloud",
+              "devsecops",
+              "elixir",
+              "elixir-lang",
+              "liveview",
+              "network",
+              "network-security",
+              "networking",
+              "phoenix",
+              "privacy",
+              "rust-lang",
+              "security",
+              "virtual-network",
+              "vpn",
+              "vpn-server",
+              "wireguard",
+              "wireguard-ui",
+              "wireguard-vpn"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1398,12 +2451,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official git repo for iodine dns tunnel",
+            "homepage": "https://code.kryo.se/iodine",
             "id": 3354902,
             "language": "C",
+            "license": "ISC",
             "last_commit": "2025-09-04T19:18:00Z",
+            "open_issues": 29,
             "owner": "yarrick",
             "repo": "iodine",
-            "stars": 7958
+            "stars": 7958,
+            "topics": [
+              "dns",
+              "dns-tunnel",
+              "hacktoberfest",
+              "iodine",
+              "tunnel",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1414,12 +2479,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Peer-to-peer VPN",
+            "homepage": null,
             "id": 71691212,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T08:59:21Z",
+            "open_issues": 152,
             "owner": "ntop",
             "repo": "n2n",
-            "stars": 7007
+            "stars": 7007,
+            "topics": [
+              "peer-to-peer",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1430,12 +2503,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A private network system that uses WireGuard under the hood.",
+            "homepage": "https://blog.tonari.no/introducing-innernet",
             "id": 352725385,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-07-28T12:00:53Z",
+            "open_issues": 83,
             "owner": "tonarino",
             "repo": "innernet",
-            "stars": 5535
+            "stars": 5535,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1446,12 +2524,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experiment in scalable routing as an encrypted IPv6 overlay network",
+            "homepage": "https://yggdrasil-network.github.io",
             "id": 115685026,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-19T21:22:02Z",
+            "open_issues": 176,
             "owner": "yggdrasil-network",
             "repo": "yggdrasil-go",
-            "stars": 5377
+            "stars": 5377,
+            "topics": [
+              "decentralized",
+              "e2e-encryption",
+              "ipv6",
+              "mesh",
+              "mesh-networks",
+              "routing-algorithm",
+              "routing-mesh",
+              "spanning-tree"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1462,12 +2554,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enterprise VPN server",
+            "homepage": "https://forum.pritunl.com",
             "id": 12798028,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T20:21:23Z",
+            "open_issues": 9,
             "owner": "pritunl",
             "repo": "pritunl",
-            "stars": 5011
+            "stars": 5011,
+            "topics": [
+              "pritunl",
+              "vpn",
+              "vpn-server"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1478,12 +2579,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.",
+            "homepage": "https://docs.ockam.io/",
             "id": 159866229,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-04T22:01:38Z",
+            "open_issues": 93,
             "owner": "build-trust",
             "repo": "ockam",
-            "stars": 4633
+            "stars": 4633,
+            "topics": [
+              "authentication",
+              "authorization",
+              "credentials",
+              "distributed-systems",
+              "e2ee",
+              "encrypted-connections",
+              "encrypted-messages",
+              "encryption",
+              "end-to-end-encryption",
+              "identity",
+              "kafka",
+              "key-management",
+              "messaging",
+              "rust",
+              "security",
+              "snowflake",
+              "trust",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1494,12 +2619,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti",
+            "homepage": "https://openziti.io",
             "id": 223431735,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-29T02:21:19Z",
+            "open_issues": 279,
             "owner": "openziti",
             "repo": "ziti",
-            "stars": 4360
+            "stars": 4360,
+            "topics": [
+              "appsec",
+              "golang",
+              "mesh",
+              "netsec",
+              "network",
+              "networking",
+              "overlay",
+              "overlay-network",
+              "secure-networking",
+              "vpn",
+              "vpn-2",
+              "zero-trust",
+              "zero-trust-cloud",
+              "zero-trust-network",
+              "zero-trust-network-access",
+              "zero-trust-security",
+              "zerotrust",
+              "ztaa",
+              "ztha",
+              "ztna"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1510,12 +2661,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA platform, API/AI/MCP gateway, a PaaS, an ngrok-alternative and a homelab infrastructure.",
+            "homepage": "https://octelium.com/docs",
             "id": 985853356,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T16:53:40Z",
+            "open_issues": 12,
             "owner": "octelium",
             "repo": "octelium",
-            "stars": 4029
+            "stars": 4029,
+            "topics": [
+              "abac",
+              "ai-gateway",
+              "api-gateway",
+              "beyondcorp",
+              "homelab",
+              "kubernetes",
+              "mcp-gateway",
+              "mfa",
+              "opentelemetry",
+              "paas",
+              "policy-as-code",
+              "quic",
+              "remote-access",
+              "ssh",
+              "sso",
+              "tunnel",
+              "vpn",
+              "wireguard",
+              "zero-trust",
+              "ztna"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1526,12 +2703,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 \"Proxy Server\" framework • 🌐 \"Web Server\" framework • ➵ ➶ ➷ ➠ \"PubSub\" framework • 👷 \"Work\" acceptor & executor framework",
+            "homepage": "https://abhinavsingh.com/proxy-py-a-lightweight-single-file-http-proxy-server-in-python/",
             "id": 12228178,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T22:02:23Z",
+            "open_issues": 89,
             "owner": "abhinavsingh",
             "repo": "proxy.py",
-            "stars": 3550
+            "stars": 3550,
+            "topics": [
+              "dns-over-https",
+              "gfw",
+              "http-proxy",
+              "http-server",
+              "https-proxy",
+              "man-in-the-middle",
+              "mitm",
+              "mitmproxy",
+              "ngrok",
+              "ngrok-alternative",
+              "ngrok-replacement",
+              "proxy",
+              "proxy-server",
+              "python3",
+              "reverse-proxy",
+              "tls-interception",
+              "tunnel",
+              "vpn",
+              "web-server",
+              "webserver"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1542,12 +2745,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DockFlare: Automate Cloudflare Tunnels with Docker Labels",
+            "homepage": "https://dockflare.app",
             "id": 964990473,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T15:30:37Z",
+            "open_issues": 6,
             "owner": "ChrispyBacon-dev",
             "repo": "DockFlare",
-            "stars": 2408
+            "stars": 2408,
+            "topics": [
+              "api-integration",
+              "automation",
+              "cloudflare",
+              "cloudflare-access",
+              "cloudflare-dns",
+              "cloudflare-tunnel",
+              "cloudflared",
+              "dns",
+              "docker",
+              "docker-labels",
+              "flask",
+              "homelab",
+              "ingress-controller",
+              "network-automation",
+              "networking",
+              "python",
+              "reverse-proxy",
+              "security",
+              "selfhosted",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1558,12 +2787,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a VPN daemon",
+            "homepage": "http://tinc-vpn.org/",
             "id": 1248151,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-27T22:08:03Z",
+            "open_issues": 116,
             "owner": "gsliepen",
             "repo": "tinc",
-            "stars": 2241
+            "stars": 2241,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1574,12 +2808,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Overlay networks based on WebRTC.",
+            "homepage": null,
             "id": 464642335,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2025-04-22T00:29:26Z",
+            "open_issues": 12,
             "owner": "pojntfx",
             "repo": "weron",
-            "stars": 2110
+            "stars": 2110,
+            "topics": [
+              "golang",
+              "nat",
+              "networking",
+              "overlay-network",
+              "p2p",
+              "pion",
+              "tuntap",
+              "vpn",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1590,12 +2839,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sailboat: The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens",
+            "homepage": "https://mudler.github.io/edgevpn",
             "id": 367481529,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T20:01:00Z",
+            "open_issues": 57,
             "owner": "mudler",
             "repo": "edgevpn",
-            "stars": 2067
+            "stars": 2067,
+            "topics": [
+              "blockchain",
+              "cloudvpn",
+              "golang",
+              "golang-library",
+              "holepunch",
+              "ipfs",
+              "ipfs-blockchain",
+              "kubernetes",
+              "libp2p",
+              "mesh",
+              "mesh-networks",
+              "nat",
+              "networking",
+              "p2p",
+              "p2pvpn",
+              "tunnel",
+              "vpn"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1606,12 +2878,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Securely connect your devices into a private network. Mesh VPN, socks5 proxy server/client",
+            "homepage": "https://anywherelan.com",
             "id": 345631138,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-11T15:18:46Z",
+            "open_issues": 28,
             "owner": "anywherelan",
             "repo": "awl",
-            "stars": 667
+            "stars": 667,
+            "topics": [
+              "cross-platform",
+              "decentralized",
+              "golang",
+              "hacktoberfest",
+              "libp2p",
+              "mesh-networks",
+              "network",
+              "p2p",
+              "proxy",
+              "proxy-server",
+              "self-hosted",
+              "socks5",
+              "socks5-proxy",
+              "virtual-network",
+              "vpn",
+              "vpn-client",
+              "vpn-server",
+              "vpn-service"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1622,12 +2918,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A self-hosted solution to enable secure connectivity between devices across restricted networks like NAT or firewalls",
+            "homepage": "https://narrowlink.com",
             "id": 672664952,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-13T04:19:25Z",
+            "open_issues": 29,
             "owner": "narrowlink",
             "repo": "narrowlink",
-            "stars": 658
+            "stars": 658,
+            "topics": [
+              "acme",
+              "narrowlink",
+              "p2p",
+              "peer-to-peer",
+              "proxy",
+              "publish-website",
+              "quic",
+              "remote-access",
+              "sni-proxy",
+              "ssh-tunnel",
+              "tun",
+              "tunnel",
+              "zero-trust-network-access"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1638,12 +2953,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "self-host directly in the web browser, no servers required. local-first",
+            "homepage": "https://spacewave.app",
             "id": 137167041,
             "language": "Go",
-            "last_commit": "2026-08-28T23:01:48Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:00:06Z",
+            "open_issues": 4,
             "owner": "s4wave",
             "repo": "spacewave",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "go",
+              "local-first-software",
+              "p2p",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1654,12 +2979,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok",
+            "homepage": null,
             "id": 883117474,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-27T14:16:34Z",
+            "open_issues": 4,
             "owner": "connet-dev",
             "repo": "connet",
-            "stars": 531
+            "stars": 530,
+            "topics": [
+              "firewall",
+              "frp",
+              "go",
+              "nat",
+              "p2p",
+              "proxy",
+              "quic",
+              "rathole",
+              "reverse-proxy",
+              "tunnel",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1670,12 +3012,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UpVPN is the world's first Serverless VPN. The VPN app is available for macOS, Linux, Windows, tvOS, iOS, and Android. The UpVPN service can also be used with any WireGuard-compatible client through the Web Device feature.",
+            "homepage": "https://UpVPN.app",
             "id": 653667843,
             "language": "Kotlin",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-04T18:30:14Z",
+            "open_issues": 2,
             "owner": "upvpn",
             "repo": "upvpn-app",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "android",
+              "chromeos",
+              "ios",
+              "ipados",
+              "linux",
+              "macos",
+              "raspberrypios",
+              "serverless",
+              "serverless-vpn",
+              "tvos",
+              "upvpn",
+              "vpn",
+              "wireguard",
+              "wireguard-vpn"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1686,12 +3048,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mycoria is an open and secure overlay network that connects all participants. It values freedom of connectivity and aims to imitate the curious and adventurous spirit of the early Internet.",
+            "homepage": "https://mycoria.org",
             "id": 727454991,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-13T11:41:30Z",
+            "open_issues": 3,
             "owner": "mycoria",
             "repo": "mycoria",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "mesh",
+              "mesh-network",
+              "mycoria",
+              "vpn",
+              "zero-trust-network"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1702,12 +3075,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Operator for Chisel",
+            "homepage": "https://chisel.fyralabs.com",
             "id": 639195565,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-21T11:10:00Z",
+            "open_issues": 15,
             "owner": "FyraLabs",
             "repo": "chisel-operator",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "chisel",
+              "inlets",
+              "inlets-pro",
+              "inletsdev",
+              "k8s",
+              "k8s-operator",
+              "kubernetes",
+              "kubernetes-operator",
+              "tunnel",
+              "tunneling"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1718,12 +3107,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose your service in Kubernetes to the Internet with Ngrok easily! Automatically reload ngrok sessions after expired!",
+            "homepage": null,
             "id": 278446728,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-10T12:22:37Z",
+            "open_issues": 0,
             "owner": "zufardhiyaulhaq",
             "repo": "ngrok-operator",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "k8s",
+              "kubernetes",
+              "kubernetes-operator",
+              "kubernetes-tunnel",
+              "ngrok",
+              "ngrok-alternative",
+              "ngrok-operator",
+              "ngrok-tunnel",
+              "operator",
+              "private-kubernetes",
+              "proxy",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1734,12 +3141,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose your service in Kubernetes to the Internet with open source FRP! ",
+            "homepage": null,
             "id": 502337032,
             "language": "Go",
-            "last_commit": "2026-05-22T04:14:04Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:38:32Z",
+            "open_issues": 5,
             "owner": "zufardhiyaulhaq",
             "repo": "frp-operator",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "frp",
+              "frp-alternative",
+              "frp-kubernetes",
+              "frp-operator",
+              "frpc",
+              "frps",
+              "k8s",
+              "kubernetes",
+              "kubernetes-frp",
+              "kubernetes-tunnel",
+              "nat-hole-punching",
+              "nat-punch",
+              "nat-traversal",
+              "operator",
+              "private-kubernetes",
+              "proxy",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         }
@@ -1748,15 +3178,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:30.659Z",
+    "last_updated": "2026-08-29T04:12:36.676Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.",
+      "homepage": null,
       "id": 296142821,
       "language": "Python",
+      "license": null,
       "last_commit": "2026-08-11T01:13:17Z",
+      "open_issues": 5,
       "owner": "anderspitman",
       "repo": "awesome-tunneling",
-      "stars": 21675
+      "stars": 21676,
+      "topics": [
+        "nebula",
+        "ngrok",
+        "ngrok-alternative",
+        "self-hosted",
+        "ssh",
+        "tailscale",
+        "tailscale-alternative",
+        "tunnel-proxy",
+        "tunneling",
+        "zerotier"
+      ]
     },
     "original_repository_sha": "afd6da381a3ef2915a4979dead6c09de3f31b573",
     "enhanced_repository": "enhansome/enhansome-tunneling",
