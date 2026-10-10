@@ -15,11 +15,11 @@
             "id": 48378947,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:53:12Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-10T11:58:09Z",
+            "open_issues": 35,
             "owner": "fatedier",
             "repo": "frp",
-            "stars": 109795,
+            "stars": 109820,
             "topics": [
               "expose",
               "firewall",
@@ -51,7 +51,7 @@
             "open_issues": 0,
             "owner": "inconshreveable",
             "repo": "ngrok",
-            "stars": 24407,
+            "stars": 24405,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
@@ -68,11 +68,11 @@
             "id": 863835427,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T18:22:13Z",
-            "open_issues": 117,
+            "last_commit": "2026-10-10T00:07:02Z",
+            "open_issues": 116,
             "owner": "fosrl",
             "repo": "pangolin",
-            "stars": 23042,
+            "stars": 23049,
             "topics": [
               "ai-gateway",
               "gateway",
@@ -114,7 +114,7 @@
             "open_issues": 167,
             "owner": "localtunnel",
             "repo": "localtunnel",
-            "stars": 22491,
+            "stars": 22490,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
@@ -135,7 +135,7 @@
             "open_issues": 248,
             "owner": "jpillora",
             "repo": "chisel",
-            "stars": 16631,
+            "stars": 16632,
             "topics": [
               "golang",
               "http",
@@ -161,7 +161,7 @@
             "open_issues": 98,
             "owner": "rathole-org",
             "repo": "rathole",
-            "stars": 14318,
+            "stars": 14319,
             "topics": [
               "firewall",
               "frp",
@@ -194,7 +194,7 @@
             "open_issues": 211,
             "owner": "sshuttle",
             "repo": "sshuttle",
-            "stars": 13600,
+            "stars": 13603,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
@@ -215,7 +215,7 @@
             "open_issues": 18,
             "owner": "ekzhang",
             "repo": "bore",
-            "stars": 11526,
+            "stars": 11527,
             "topics": [
               "cli",
               "localhost",
@@ -242,10 +242,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-07T15:05:50Z",
-            "open_issues": 102,
+            "open_issues": 104,
             "owner": "go-gost",
             "repo": "gost",
-            "stars": 7608,
+            "stars": 7614,
             "topics": [
               "dns",
               "dtls",
@@ -284,10 +284,10 @@
             "language": "Rust",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-27T18:51:52Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "erebe",
             "repo": "wstunnel",
-            "stars": 7089,
+            "stars": 7092,
             "topics": [
               "http2",
               "reverse-tunnel",
@@ -321,7 +321,7 @@
             "open_issues": 51,
             "owner": "agrinman",
             "repo": "tunnelto",
-            "stars": 7086,
+            "stars": 7087,
             "topics": [
               "async-io",
               "expose",
@@ -348,7 +348,7 @@
             "open_issues": 22,
             "owner": "antoniomika",
             "repo": "sish",
-            "stars": 4792,
+            "stars": 4790,
             "topics": [
               "http",
               "https",
@@ -378,7 +378,7 @@
             "open_issues": 123,
             "owner": "openziti",
             "repo": "zrok",
-            "stars": 4766,
+            "stars": 4767,
             "topics": [
               "file-sharing",
               "golang",
@@ -432,7 +432,7 @@
             "open_issues": 4,
             "owner": "pgrok",
             "repo": "pgrok",
-            "stars": 3650,
+            "stars": 3648,
             "topics": [
               "go",
               "http",
@@ -556,7 +556,7 @@
             "open_issues": 2,
             "owner": "andydunstall",
             "repo": "piko",
-            "stars": 2197,
+            "stars": 2198,
             "topics": [
               "golang",
               "http",
@@ -658,7 +658,7 @@
             "open_issues": 9,
             "owner": "wiredoor",
             "repo": "wiredoor",
-            "stars": 1622,
+            "stars": 1621,
             "topics": [
               "api-server",
               "ingress-service",
@@ -707,7 +707,7 @@
             "language": "Go",
             "license": null,
             "last_commit": "2026-06-20T12:10:26Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "azimjohn",
             "repo": "jprq",
             "stars": 1549,
@@ -753,11 +753,11 @@
             "id": 1326564974,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T15:02:26Z",
+            "last_commit": "2026-10-10T15:44:05Z",
             "open_issues": 0,
             "owner": "orbien-org",
             "repo": "orbien",
-            "stars": 1314,
+            "stars": 1316,
             "topics": [
               "expose",
               "http",
@@ -825,7 +825,7 @@
             "open_issues": 32,
             "owner": "djylb",
             "repo": "nps",
-            "stars": 1081,
+            "stars": 1085,
             "topics": [
               "expose",
               "firewall",
@@ -905,7 +905,7 @@
             "id": 1109734874,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T04:49:56Z",
+            "last_commit": "2026-10-10T12:38:41Z",
             "open_issues": 0,
             "owner": "klipitkas",
             "repo": "tunnl.gg",
@@ -1051,7 +1051,7 @@
             "open_issues": 2,
             "owner": "skx",
             "repo": "tunneller",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "go",
               "golang",
@@ -1144,6 +1144,40 @@
             "repo": "tunnel",
             "stars": 331,
             "topics": []
+          },
+          "first_seen": "2026-08-29T02:26:30.659Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Portal",
+          "description": "Self-hostable relay tunnel (MIT, Go). publishes a localhost service at a public HTTPS URL through community or self-hosted relays; outbound-only, no account, raw TCP/UDP, SNI-based routing, tenant-side TLS termination. Similar to boringproxy/ngrok.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Publishes localhost services to the agentic web through self-hostable, trustless relays.",
+            "homepage": "https://gosuda.github.io/portal-tunnel/",
+            "id": 1079713761,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-10-10T13:59:01Z",
+            "open_issues": 10,
+            "owner": "gosuda",
+            "repo": "portal-tunnel",
+            "stars": 314,
+            "topics": [
+              "agent-skills",
+              "agentic-web",
+              "e2ee",
+              "nat-traversal",
+              "ngrok-alternative",
+              "relay",
+              "self-hosted",
+              "self-hosting",
+              "tor",
+              "trustless",
+              "tunneling",
+              "x402-payment"
+            ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
         },
@@ -1286,40 +1320,6 @@
         },
         {
           "node_type": "item",
-          "title": "Portal",
-          "description": "Self-hostable relay tunnel (MIT, Go). publishes a localhost service at a public HTTPS URL through community or self-hosted relays; outbound-only, no account, raw TCP/UDP, SNI-based routing, tenant-side TLS termination. Similar to boringproxy/ngrok.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Publishes localhost services to the agentic web through self-hostable, trustless relays.",
-            "homepage": "https://gosuda.github.io/portal-tunnel/",
-            "id": 1079713761,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-10-09T15:40:04Z",
-            "open_issues": 10,
-            "owner": "gosuda",
-            "repo": "portal-tunnel",
-            "stars": 287,
-            "topics": [
-              "agent-skills",
-              "agentic-web",
-              "e2ee",
-              "nat-traversal",
-              "ngrok-alternative",
-              "relay",
-              "self-hosted",
-              "self-hosting",
-              "tor",
-              "trustless",
-              "tunneling",
-              "x402-payment"
-            ]
-          },
-          "first_seen": "2026-08-29T02:26:30.659Z"
-        },
-        {
-          "node_type": "item",
           "title": "jerson/pgrok",
           "description": "Fork of ngrok 1.0, with more recent commits. Archived.",
           "children": [],
@@ -1378,6 +1378,27 @@
         },
         {
           "node_type": "item",
+          "title": "OpenTunnel",
+          "description": "Hosted \"blind\" TLS tunnel on Cloudflare: each client gets a unique subdomain and TLS is terminated locally, so the relay never sees plaintext or the certificate private key. Automatic HTTPS via ZeroSSL. Inbound TCP is temporarily handled by an AWS relay pending Cloudflare's TCP Workers beta. MIT (declared in package.json; no LICENSE file yet). Written in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1195698044,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-10-10T13:02:08Z",
+            "open_issues": 2,
+            "owner": "anomalyco",
+            "repo": "opentunnel",
+            "stars": 254,
+            "topics": []
+          },
+          "first_seen": "2026-10-03T22:25:23.259Z"
+        },
+        {
+          "node_type": "item",
           "title": "reverse-tunnel",
           "description": "Support TCP and UDP tunnels. Has docker images. Supports Let's Encrypt. MIT License. Written in Go.",
           "children": [],
@@ -1400,27 +1421,6 @@
             ]
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenTunnel",
-          "description": "Hosted \"blind\" TLS tunnel on Cloudflare: each client gets a unique subdomain and TLS is terminated locally, so the relay never sees plaintext or the certificate private key. Automatic HTTPS via ZeroSSL. Inbound TCP is temporarily handled by an AWS relay pending Cloudflare's TCP Workers beta. MIT (declared in package.json; no LICENSE file yet). Written in TypeScript.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1195698044,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-09T17:04:53Z",
-            "open_issues": 6,
-            "owner": "anomalyco",
-            "repo": "opentunnel",
-            "stars": 241,
-            "topics": []
-          },
-          "first_seen": "2026-10-03T22:25:23.259Z"
         },
         {
           "node_type": "item",
@@ -1681,7 +1681,7 @@
             "open_issues": 0,
             "owner": "jeffreytse",
             "repo": "cactus-tunnel",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "awesome",
               "browser",
@@ -1998,10 +1998,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T19:45:46Z",
-            "open_issues": 558,
+            "open_issues": 559,
             "owner": "cloudflare",
             "repo": "cloudflared",
-            "stars": 16078,
+            "stars": 16090,
             "topics": [
               "cloudflare",
               "cloudflare-tunnel",
@@ -2027,7 +2027,7 @@
             "open_issues": 22,
             "owner": "antoniomika",
             "repo": "sish",
-            "stars": 4792,
+            "stars": 4790,
             "topics": [
               "http",
               "https",
@@ -2054,7 +2054,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-09T22:50:29Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "svix",
             "repo": "svix-webhooks",
             "stars": 3441,
@@ -2098,7 +2098,7 @@
             "open_issues": 26,
             "owner": "playit-cloud",
             "repo": "playit-agent",
-            "stars": 531,
+            "stars": 532,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
@@ -2163,11 +2163,11 @@
             "id": 273871859,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T09:44:37Z",
+            "last_commit": "2026-10-10T05:13:42Z",
             "open_issues": 133,
             "owner": "juanfont",
             "repo": "headscale",
-            "stars": 44486,
+            "stars": 44519,
             "topics": [
               "tailscale",
               "tailscale-control-server",
@@ -2189,11 +2189,11 @@
             "id": 237523442,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T22:43:22Z",
-            "open_issues": 4706,
+            "last_commit": "2026-10-10T16:53:13Z",
+            "open_issues": 4714,
             "owner": "tailscale",
             "repo": "tailscale",
-            "stars": 37320,
+            "stars": 37351,
             "topics": [
               "2fa",
               "oauth",
@@ -2217,11 +2217,11 @@
             "id": 357897199,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T18:01:10Z",
-            "open_issues": 918,
+            "last_commit": "2026-10-10T08:53:30Z",
+            "open_issues": 921,
             "owner": "netbirdio",
             "repo": "netbird",
-            "stars": 29837,
+            "stars": 29854,
             "topics": [
               "golang",
               "mesh",
@@ -2253,7 +2253,7 @@
             "open_issues": 258,
             "owner": "HyNetworks",
             "repo": "hysteria",
-            "stars": 22630,
+            "stars": 22637,
             "topics": [
               "censorship-circumvention",
               "golang",
@@ -2283,10 +2283,10 @@
             "language": "Go",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-17T15:49:47Z",
-            "open_issues": 3236,
+            "open_issues": 3242,
             "owner": "gravitational",
             "repo": "teleport",
-            "stars": 20973,
+            "stars": 20977,
             "topics": [
               "audit",
               "bastion",
@@ -2324,11 +2324,11 @@
             "id": 222172014,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T23:25:39Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-10T16:52:02Z",
+            "open_issues": 115,
             "owner": "slackhq",
             "repo": "nebula",
-            "stars": 18419,
+            "stars": 18421,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
@@ -2349,7 +2349,7 @@
             "open_issues": 407,
             "owner": "zerotier",
             "repo": "ZeroTierOne",
-            "stars": 17168,
+            "stars": 17172,
             "topics": [
               "decentralization",
               "networking",
@@ -2374,11 +2374,11 @@
             "id": 698328708,
             "language": "Rust",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-09T15:05:15Z",
-            "open_issues": 475,
+            "last_commit": "2026-10-10T17:35:33Z",
+            "open_issues": 467,
             "owner": "EasyTier",
             "repo": "EasyTier",
-            "stars": 13980,
+            "stars": 14002,
             "topics": [
               "nat-traversal",
               "p2p",
@@ -2403,10 +2403,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T11:17:36Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "n0-computer",
             "repo": "iroh",
-            "stars": 12672,
+            "stars": 12674,
             "topics": [
               "does-anyone-read-these",
               "holepunching",
@@ -2438,7 +2438,7 @@
             "open_issues": 234,
             "owner": "gravitl",
             "repo": "netmaker",
-            "stars": 11824,
+            "stars": 11827,
             "topics": [
               "cloud",
               "devsecops",
@@ -2476,11 +2476,11 @@
             "id": 257787813,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T22:11:45Z",
-            "open_issues": 344,
+            "last_commit": "2026-10-10T16:39:02Z",
+            "open_issues": 346,
             "owner": "firezone",
             "repo": "firezone",
-            "stars": 9108,
+            "stars": 9109,
             "topics": [
               "cloud",
               "devsecops",
@@ -2518,7 +2518,7 @@
             "open_issues": 26,
             "owner": "tailscale",
             "repo": "tailcat",
-            "stars": 8270,
+            "stars": 8287,
             "topics": []
           },
           "first_seen": "2026-10-03T22:25:23.259Z"
@@ -2535,11 +2535,11 @@
             "id": 3354902,
             "language": "C",
             "license": "ISC",
-            "last_commit": "2026-10-09T18:44:01Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-10T22:30:11Z",
+            "open_issues": 14,
             "owner": "yarrick",
             "repo": "iodine",
-            "stars": 7994,
+            "stars": 7996,
             "topics": [
               "dns",
               "dns-tunnel",
@@ -2567,7 +2567,7 @@
             "open_issues": 154,
             "owner": "ntop",
             "repo": "n2n",
-            "stars": 7031,
+            "stars": 7030,
             "topics": [
               "peer-to-peer",
               "vpn"
@@ -2612,7 +2612,7 @@
             "open_issues": 179,
             "owner": "yggdrasil-network",
             "repo": "yggdrasil-go",
-            "stars": 5478,
+            "stars": 5483,
             "topics": [
               "decentralized",
               "e2e-encryption",
@@ -2707,7 +2707,7 @@
             "open_issues": 399,
             "owner": "openziti",
             "repo": "ziti",
-            "stars": 4423,
+            "stars": 4425,
             "topics": [
               "appsec",
               "golang",
@@ -2791,7 +2791,7 @@
             "open_issues": 96,
             "owner": "abhinavsingh",
             "repo": "proxy.py",
-            "stars": 3554,
+            "stars": 3555,
             "topics": [
               "dns-over-https",
               "gfw",
@@ -2872,10 +2872,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-06-27T22:08:03Z",
-            "open_issues": 119,
+            "open_issues": 120,
             "owner": "gsliepen",
             "repo": "tinc",
-            "stars": 2254,
+            "stars": 2255,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:30.659Z"
@@ -2896,7 +2896,7 @@
             "open_issues": 13,
             "owner": "pojntfx",
             "repo": "weron",
-            "stars": 2116,
+            "stars": 2117,
             "topics": [
               "golang",
               "nat",
@@ -2966,7 +2966,7 @@
             "open_issues": 45,
             "owner": "mmalmi",
             "repo": "nostr-vpn",
-            "stars": 1182,
+            "stars": 1184,
             "topics": []
           },
           "first_seen": "2026-10-03T22:25:23.259Z"
@@ -3058,7 +3058,7 @@
             "id": 137167041,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T19:08:48Z",
+            "last_commit": "2026-10-10T22:44:45Z",
             "open_issues": 1,
             "owner": "s4wave",
             "repo": "spacewave",
@@ -3182,7 +3182,7 @@
             "open_issues": 6,
             "owner": "tunnetio",
             "repo": "Tunnet",
-            "stars": 205,
+            "stars": 206,
             "topics": [
               "mesh-networks",
               "networking",
@@ -3376,7 +3376,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:28:49.334Z",
+    "last_updated": "2026-10-10T22:55:37.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.",
@@ -3388,7 +3388,7 @@
       "open_issues": 6,
       "owner": "anderspitman",
       "repo": "awesome-tunneling",
-      "stars": 21932,
+      "stars": 21934,
       "topics": [
         "nebula",
         "ngrok",
